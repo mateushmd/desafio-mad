@@ -1,0 +1,1001 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1764709302957,204,GET - Filmes,200,OK,Thread Group 1-1,text,true,,540,158,2,2,http://localhost:3000/api/filmes,204,0,1
+1764709303162,688,POST - Comprar,200,OK,Thread Group 1-1,text,true,,312,200,8,8,http://localhost:3000/api/comprar,688,0,0
+1764709303074,776,GET - Filmes,200,OK,Thread Group 1-2,text,true,,540,158,8,8,http://localhost:3000/api/filmes,776,0,0
+1764709303851,692,POST - Comprar,200,OK,Thread Group 1-2,text,true,,313,200,13,13,http://localhost:3000/api/comprar,692,0,0
+1764709303194,1349,GET - Filmes,200,OK,Thread Group 1-3,text,true,,540,158,13,13,http://localhost:3000/api/filmes,1349,0,1
+1764709303314,1229,GET - Filmes,200,OK,Thread Group 1-4,text,true,,540,158,12,12,http://localhost:3000/api/filmes,1229,0,1
+1764709303435,1108,GET - Filmes,200,OK,Thread Group 1-5,text,true,,540,158,12,12,http://localhost:3000/api/filmes,1108,0,0
+1764709304543,681,POST - Comprar,200,OK,Thread Group 1-3,text,true,,313,200,17,17,http://localhost:3000/api/comprar,681,0,0
+1764709304544,1369,POST - Comprar,200,OK,Thread Group 1-5,text,true,,312,200,22,22,http://localhost:3000/api/comprar,1369,0,0
+1764709304544,2055,POST - Comprar,200,OK,Thread Group 1-4,text,true,,312,200,27,27,http://localhost:3000/api/comprar,2055,0,0
+1764709303555,3044,GET - Filmes,200,OK,Thread Group 1-6,text,true,,540,158,27,27,http://localhost:3000/api/filmes,3044,0,0
+1764709303674,2925,GET - Filmes,200,OK,Thread Group 1-7,text,true,,540,158,27,27,http://localhost:3000/api/filmes,2925,0,0
+1764709306601,683,POST - Comprar,200,OK,Thread Group 1-7,text,true,,313,200,32,32,http://localhost:3000/api/comprar,683,0,0
+1764709306601,1371,POST - Comprar,200,OK,Thread Group 1-6,text,true,,312,200,36,36,http://localhost:3000/api/comprar,1371,0,0
+1764709303794,4178,GET - Filmes,200,OK,Thread Group 1-8,text,true,,540,158,35,35,http://localhost:3000/api/filmes,4178,0,1
+1764709303916,4056,GET - Filmes,200,OK,Thread Group 1-9,text,true,,540,158,35,35,http://localhost:3000/api/filmes,4056,0,0
+1764709307973,695,POST - Comprar,200,OK,Thread Group 1-9,text,true,,312,200,41,41,http://localhost:3000/api/comprar,695,0,0
+1764709307973,1386,POST - Comprar,200,OK,Thread Group 1-8,text,true,,312,200,46,46,http://localhost:3000/api/comprar,1386,0,0
+1764709304034,5325,GET - Filmes,200,OK,Thread Group 1-10,text,true,,540,158,46,46,http://localhost:3000/api/filmes,5325,0,0
+1764709304154,5205,GET - Filmes,200,OK,Thread Group 1-11,text,true,,540,158,46,46,http://localhost:3000/api/filmes,5205,0,1
+1764709309360,779,POST - Comprar,200,OK,Thread Group 1-10,text,true,,313,200,51,51,http://localhost:3000/api/comprar,779,0,0
+1764709309360,1549,POST - Comprar,200,OK,Thread Group 1-11,text,true,,312,200,57,57,http://localhost:3000/api/comprar,1549,0,0
+1764709304394,6514,GET - Filmes,200,OK,Thread Group 1-13,text,true,,540,158,56,56,http://localhost:3000/api/filmes,6514,0,0
+1764709304275,6634,GET - Filmes,200,OK,Thread Group 1-12,text,true,,540,158,56,56,http://localhost:3000/api/filmes,6634,0,0
+1764709310910,755,POST - Comprar,200,OK,Thread Group 1-13,text,true,,313,200,62,62,http://localhost:3000/api/comprar,755,0,0
+1764709310910,1470,POST - Comprar,200,OK,Thread Group 1-12,text,true,,312,200,67,67,http://localhost:3000/api/comprar,1470,0,0
+1764709304515,7865,GET - Filmes,200,OK,Thread Group 1-14,text,true,,540,158,67,67,http://localhost:3000/api/filmes,7865,0,0
+1764709304635,7745,GET - Filmes,200,OK,Thread Group 1-15,text,true,,540,158,66,66,http://localhost:3000/api/filmes,7745,0,1
+1764709312381,703,POST - Comprar,200,OK,Thread Group 1-14,text,true,,313,200,72,72,http://localhost:3000/api/comprar,703,0,0
+1764709304754,8330,GET - Filmes,200,OK,Thread Group 1-16,text,true,,540,158,71,71,http://localhost:3000/api/filmes,8330,0,0
+1764709304876,8208,GET - Filmes,200,OK,Thread Group 1-17,text,true,,540,158,71,71,http://localhost:3000/api/filmes,8208,0,1
+1764709312381,1387,POST - Comprar,200,OK,Thread Group 1-15,text,true,,312,200,77,77,http://localhost:3000/api/comprar,1387,0,0
+1764709304994,8773,GET - Filmes,200,OK,Thread Group 1-18,text,true,,540,158,76,76,http://localhost:3000/api/filmes,8773,0,1
+1764709313085,1364,POST - Comprar,200,OK,Thread Group 1-16,text,true,,312,200,81,81,http://localhost:3000/api/comprar,1364,0,0
+1764709313085,2059,POST - Comprar,200,OK,Thread Group 1-17,text,true,,312,200,86,86,http://localhost:3000/api/comprar,2059,0,0
+1764709305115,10028,GET - Filmes,200,OK,Thread Group 1-19,text,true,,540,158,86,86,http://localhost:3000/api/filmes,10028,0,0
+1764709313769,2047,POST - Comprar,200,OK,Thread Group 1-18,text,true,,312,200,91,91,http://localhost:3000/api/comprar,2047,0,0
+1764709305235,10581,GET - Filmes,200,OK,Thread Group 1-20,text,true,,540,158,90,90,http://localhost:3000/api/filmes,10581,0,0
+1764709315145,1370,POST - Comprar,200,OK,Thread Group 1-19,text,true,,312,200,96,96,http://localhost:3000/api/comprar,1370,0,0
+1764709305354,11161,GET - Filmes,200,OK,Thread Group 1-21,text,true,,540,158,96,96,http://localhost:3000/api/filmes,11161,0,1
+1764709315816,1370,POST - Comprar,200,OK,Thread Group 1-20,text,true,,312,200,100,100,http://localhost:3000/api/comprar,1370,0,0
+1764709305474,11713,GET - Filmes,200,OK,Thread Group 1-22,text,true,,540,158,100,100,http://localhost:3000/api/filmes,11713,0,1
+1764709316514,1338,POST - Comprar,200,OK,Thread Group 1-21,text,true,,313,200,105,105,http://localhost:3000/api/comprar,1338,0,0
+1764709305595,12259,GET - Filmes,200,OK,Thread Group 1-23,text,true,,540,158,105,105,http://localhost:3000/api/filmes,12259,0,1
+1764709317186,1335,POST - Comprar,200,OK,Thread Group 1-22,text,true,,312,200,109,109,http://localhost:3000/api/comprar,1335,0,0
+1764709305716,12806,GET - Filmes,200,OK,Thread Group 1-24,text,true,,540,158,109,109,http://localhost:3000/api/filmes,12806,0,0
+1764709317853,1336,POST - Comprar,200,OK,Thread Group 1-23,text,true,,313,200,114,114,http://localhost:3000/api/comprar,1336,0,0
+1764709305835,13355,GET - Filmes,200,OK,Thread Group 1-25,text,true,,540,158,114,114,http://localhost:3000/api/filmes,13355,0,0
+1764709318521,1335,POST - Comprar,200,OK,Thread Group 1-24,text,true,,313,200,118,118,http://localhost:3000/api/comprar,1335,0,0
+1764709305956,13902,GET - Filmes,200,OK,Thread Group 1-26,text,true,,540,158,118,118,http://localhost:3000/api/filmes,13902,0,0
+1764709319190,1334,POST - Comprar,200,OK,Thread Group 1-25,text,true,,313,200,123,123,http://localhost:3000/api/comprar,1334,0,0
+1764709306075,14450,GET - Filmes,200,OK,Thread Group 1-27,text,true,,540,158,122,122,http://localhost:3000/api/filmes,14450,0,0
+1764709319857,1334,POST - Comprar,200,OK,Thread Group 1-26,text,true,,313,200,127,127,http://localhost:3000/api/comprar,1334,0,0
+1764709306195,14998,GET - Filmes,200,OK,Thread Group 1-28,text,true,,540,158,126,126,http://localhost:3000/api/filmes,14998,0,0
+1764709320525,1334,POST - Comprar,200,OK,Thread Group 1-27,text,true,,312,200,132,132,http://localhost:3000/api/comprar,1334,0,0
+1764709306315,15545,GET - Filmes,200,OK,Thread Group 1-29,text,true,,540,158,132,132,http://localhost:3000/api/filmes,15545,0,0
+1764709321192,1334,POST - Comprar,200,OK,Thread Group 1-28,text,true,,312,200,137,137,http://localhost:3000/api/comprar,1333,0,0
+1764709306434,16093,GET - Filmes,200,OK,Thread Group 1-30,text,true,,540,158,137,137,http://localhost:3000/api/filmes,16093,0,1
+1764709321859,1333,POST - Comprar,200,OK,Thread Group 1-29,text,true,,312,200,141,141,http://localhost:3000/api/comprar,1333,0,0
+1764709306556,16637,GET - Filmes,200,OK,Thread Group 1-31,text,true,,540,158,140,140,http://localhost:3000/api/filmes,16637,0,0
+1764709322526,1355,POST - Comprar,200,OK,Thread Group 1-30,text,true,,313,200,146,146,http://localhost:3000/api/comprar,1355,0,0
+1764709306677,17205,GET - Filmes,200,OK,Thread Group 1-32,text,true,,540,158,145,145,http://localhost:3000/api/filmes,17205,0,0
+1764709323192,1397,POST - Comprar,200,OK,Thread Group 1-31,text,true,,312,200,151,151,http://localhost:3000/api/comprar,1397,0,0
+1764709306796,17795,GET - Filmes,200,OK,Thread Group 1-33,text,true,,540,158,150,150,http://localhost:3000/api/filmes,17795,0,0
+1764709323881,1483,POST - Comprar,200,OK,Thread Group 1-32,text,true,,313,200,156,156,http://localhost:3000/api/comprar,1483,0,0
+1764709306916,18449,GET - Filmes,200,OK,Thread Group 1-34,text,true,,540,158,156,156,http://localhost:3000/api/filmes,18449,0,0
+1764709324590,1465,POST - Comprar,200,OK,Thread Group 1-33,text,true,,313,200,161,161,http://localhost:3000/api/comprar,1465,0,0
+1764709307034,19022,GET - Filmes,200,OK,Thread Group 1-35,text,true,,540,158,161,161,http://localhost:3000/api/filmes,19022,0,1
+1764709325364,1375,POST - Comprar,200,OK,Thread Group 1-34,text,true,,313,200,166,166,http://localhost:3000/api/comprar,1375,0,0
+1764709307156,19585,GET - Filmes,200,OK,Thread Group 1-36,text,true,,540,158,166,166,http://localhost:3000/api/filmes,19585,0,0
+1764709326055,1368,POST - Comprar,200,OK,Thread Group 1-35,text,true,,313,200,170,170,http://localhost:3000/api/comprar,1368,0,0
+1764709307275,20150,GET - Filmes,200,OK,Thread Group 1-37,text,true,,540,158,169,169,http://localhost:3000/api/filmes,20150,0,0
+1764709326740,1366,POST - Comprar,200,OK,Thread Group 1-36,text,true,,312,200,175,175,http://localhost:3000/api/comprar,1366,0,0
+1764709307395,20713,GET - Filmes,200,OK,Thread Group 1-38,text,true,,540,158,174,174,http://localhost:3000/api/filmes,20713,0,1
+1764709327424,1380,POST - Comprar,200,OK,Thread Group 1-37,text,true,,312,200,180,180,http://localhost:3000/api/comprar,1380,0,0
+1764709307514,21292,GET - Filmes,200,OK,Thread Group 1-39,text,true,,540,158,179,179,http://localhost:3000/api/filmes,21292,0,1
+1764709328107,1469,POST - Comprar,200,OK,Thread Group 1-38,text,true,,313,200,185,185,http://localhost:3000/api/comprar,1469,0,0
+1764709307636,21941,GET - Filmes,200,OK,Thread Group 1-40,text,true,,540,158,185,185,http://localhost:3000/api/filmes,21941,0,0
+1764709328805,1550,POST - Comprar,200,OK,Thread Group 1-39,text,true,,313,200,191,191,http://localhost:3000/api/comprar,1550,0,0
+1764709307756,22600,GET - Filmes,200,OK,Thread Group 1-41,text,true,,540,158,191,191,http://localhost:3000/api/filmes,22600,0,0
+1764709329577,1575,POST - Comprar,200,OK,Thread Group 1-40,text,true,,312,200,196,196,http://localhost:3000/api/comprar,1575,0,0
+1764709307875,23278,GET - Filmes,200,OK,Thread Group 1-42,text,true,,540,158,195,195,http://localhost:3000/api/filmes,23278,0,0
+1764709330356,1656,POST - Comprar,200,OK,Thread Group 1-41,text,true,,313,200,203,203,http://localhost:3000/api/comprar,1656,0,0
+1764709307994,24020,GET - Filmes,200,OK,Thread Group 1-43,text,true,,540,158,202,202,http://localhost:3000/api/filmes,24020,0,1
+1764709331152,1610,POST - Comprar,200,OK,Thread Group 1-42,text,true,,313,200,208,208,http://localhost:3000/api/comprar,1610,0,0
+1764709308116,24647,GET - Filmes,200,OK,Thread Group 1-44,text,true,,540,158,207,207,http://localhost:3000/api/filmes,24647,0,0
+1764709332014,1470,POST - Comprar,200,OK,Thread Group 1-43,text,true,,312,200,213,213,http://localhost:3000/api/comprar,1470,0,0
+1764709308236,25249,GET - Filmes,200,OK,Thread Group 1-45,text,true,,540,158,213,213,http://localhost:3000/api/filmes,25249,0,0
+1764709332763,1401,POST - Comprar,200,OK,Thread Group 1-44,text,true,,312,200,218,218,http://localhost:3000/api/comprar,1401,0,0
+1764709308355,25810,GET - Filmes,200,OK,Thread Group 1-46,text,true,,540,158,217,217,http://localhost:3000/api/filmes,25810,0,0
+1764709333484,1354,POST - Comprar,200,OK,Thread Group 1-45,text,true,,313,200,222,222,http://localhost:3000/api/comprar,1354,0,0
+1764709308475,26365,GET - Filmes,200,OK,Thread Group 1-47,text,true,,540,158,221,221,http://localhost:3000/api/filmes,26365,0,1
+1764709334164,1350,POST - Comprar,200,OK,Thread Group 1-46,text,true,,312,200,227,227,http://localhost:3000/api/comprar,1350,0,0
+1764709308594,26922,GET - Filmes,200,OK,Thread Group 1-48,text,true,,540,158,226,226,http://localhost:3000/api/filmes,26922,0,1
+1764709334839,1347,POST - Comprar,200,OK,Thread Group 1-47,text,true,,312,200,231,231,http://localhost:3000/api/comprar,1347,0,0
+1764709308714,27473,GET - Filmes,200,OK,Thread Group 1-49,text,true,,540,158,231,231,http://localhost:3000/api/filmes,27473,0,1
+1764709335515,1343,POST - Comprar,200,OK,Thread Group 1-48,text,true,,312,200,236,236,http://localhost:3000/api/comprar,1343,0,0
+1764709308836,28024,GET - Filmes,200,OK,Thread Group 1-50,text,true,,540,158,236,236,http://localhost:3000/api/filmes,28024,0,0
+1764709336187,1341,POST - Comprar,200,OK,Thread Group 1-49,text,true,,312,200,241,241,http://localhost:3000/api/comprar,1341,0,0
+1764709308955,28575,GET - Filmes,200,OK,Thread Group 1-51,text,true,,540,158,241,241,http://localhost:3000/api/filmes,28575,0,0
+1764709336859,1334,POST - Comprar,200,OK,Thread Group 1-50,text,true,,313,200,245,245,http://localhost:3000/api/comprar,1334,0,0
+1764709309075,29120,GET - Filmes,200,OK,Thread Group 1-52,text,true,,540,158,244,244,http://localhost:3000/api/filmes,29120,0,1
+1764709337529,1336,POST - Comprar,200,OK,Thread Group 1-51,text,true,,313,200,250,250,http://localhost:3000/api/comprar,1336,0,0
+1764709309195,29671,GET - Filmes,200,OK,Thread Group 1-53,text,true,,540,158,250,250,http://localhost:3000/api/filmes,29671,0,0
+1764709338194,1338,POST - Comprar,200,OK,Thread Group 1-52,text,true,,313,200,254,254,http://localhost:3000/api/comprar,1338,0,0
+1764709309316,30217,GET - Filmes,200,OK,Thread Group 1-54,text,true,,540,158,254,254,http://localhost:3000/api/filmes,30217,0,0
+1764709338865,1393,POST - Comprar,200,OK,Thread Group 1-53,text,true,,312,200,259,259,http://localhost:3000/api/comprar,1393,0,0
+1764709309436,30823,GET - Filmes,200,OK,Thread Group 1-55,text,true,,540,158,259,259,http://localhost:3000/api/filmes,30823,0,0
+1764709339533,1405,POST - Comprar,200,OK,Thread Group 1-54,text,true,,313,200,264,264,http://localhost:3000/api/comprar,1405,0,0
+1764709309556,31383,GET - Filmes,200,OK,Thread Group 1-56,text,true,,540,158,263,263,http://localhost:3000/api/filmes,31383,0,0
+1764709340259,1349,POST - Comprar,200,OK,Thread Group 1-55,text,true,,312,200,269,269,http://localhost:3000/api/comprar,1349,0,0
+1764709309675,31935,GET - Filmes,200,OK,Thread Group 1-57,text,true,,540,158,268,268,http://localhost:3000/api/filmes,31935,0,1
+1764709340939,1343,POST - Comprar,200,OK,Thread Group 1-56,text,true,,313,200,273,273,http://localhost:3000/api/comprar,1343,0,0
+1764709309796,32487,GET - Filmes,200,OK,Thread Group 1-58,text,true,,540,158,273,273,http://localhost:3000/api/filmes,32487,0,1
+1764709341609,1332,POST - Comprar,200,OK,Thread Group 1-57,text,true,,313,200,278,278,http://localhost:3000/api/comprar,1332,0,0
+1764709309916,33026,GET - Filmes,200,OK,Thread Group 1-59,text,true,,540,158,278,278,http://localhost:3000/api/filmes,33026,0,0
+1764709342283,1314,POST - Comprar,200,OK,Thread Group 1-58,text,true,,312,200,282,282,http://localhost:3000/api/comprar,1314,0,0
+1764709310035,33564,GET - Filmes,200,OK,Thread Group 1-60,text,true,,540,158,282,282,http://localhost:3000/api/filmes,33564,0,1
+1764709342942,1310,POST - Comprar,200,OK,Thread Group 1-59,text,true,,312,200,287,287,http://localhost:3000/api/comprar,1310,0,0
+1764709310155,34099,GET - Filmes,200,OK,Thread Group 1-61,text,true,,540,158,286,286,http://localhost:3000/api/filmes,34099,0,0
+1764709343598,1304,POST - Comprar,200,OK,Thread Group 1-60,text,true,,312,200,291,291,http://localhost:3000/api/comprar,1304,0,0
+1764709310275,34628,GET - Filmes,200,OK,Thread Group 1-62,text,true,,540,158,290,290,http://localhost:3000/api/filmes,34628,0,0
+1764709344253,1309,POST - Comprar,200,OK,Thread Group 1-61,text,true,,312,200,296,296,http://localhost:3000/api/comprar,1309,0,0
+1764709310396,35167,GET - Filmes,200,OK,Thread Group 1-63,text,true,,540,158,295,295,http://localhost:3000/api/filmes,35167,0,1
+1764709344903,1312,POST - Comprar,200,OK,Thread Group 1-62,text,true,,312,200,300,300,http://localhost:3000/api/comprar,1312,0,0
+1764709310515,35702,GET - Filmes,200,OK,Thread Group 1-64,text,true,,540,158,299,299,http://localhost:3000/api/filmes,35702,0,0
+1764709345563,1304,POST - Comprar,200,OK,Thread Group 1-63,text,true,,312,200,304,304,http://localhost:3000/api/comprar,1303,0,0
+1764709310635,36233,GET - Filmes,200,OK,Thread Group 1-65,text,true,,540,158,303,303,http://localhost:3000/api/filmes,36233,0,1
+1764709346216,1302,POST - Comprar,200,OK,Thread Group 1-64,text,true,,312,200,309,309,http://localhost:3000/api/comprar,1302,0,0
+1764709310754,36765,GET - Filmes,200,OK,Thread Group 1-66,text,true,,540,158,308,308,http://localhost:3000/api/filmes,36765,0,1
+1764709346867,1300,POST - Comprar,200,OK,Thread Group 1-65,text,true,,312,200,313,313,http://localhost:3000/api/comprar,1300,0,0
+1764709310875,37293,GET - Filmes,200,OK,Thread Group 1-67,text,true,,540,158,312,312,http://localhost:3000/api/filmes,37293,0,0
+1764709347518,1361,POST - Comprar,200,OK,Thread Group 1-66,text,true,,313,200,318,318,http://localhost:3000/api/comprar,1361,0,0
+1764709310996,37884,GET - Filmes,200,OK,Thread Group 1-68,text,true,,540,158,317,317,http://localhost:3000/api/filmes,37884,0,0
+1764709348168,1413,POST - Comprar,200,OK,Thread Group 1-67,text,true,,312,200,323,323,http://localhost:3000/api/comprar,1413,0,0
+1764709311114,38469,GET - Filmes,200,OK,Thread Group 1-69,text,true,,540,158,322,322,http://localhost:3000/api/filmes,38469,0,1
+1764709348880,1458,POST - Comprar,200,OK,Thread Group 1-68,text,true,,312,200,328,328,http://localhost:3000/api/comprar,1458,0,0
+1764709311234,39106,GET - Filmes,200,OK,Thread Group 1-70,text,true,,540,158,327,327,http://localhost:3000/api/filmes,39106,0,10
+1764709349582,1456,POST - Comprar,200,OK,Thread Group 1-69,text,true,,313,200,333,333,http://localhost:3000/api/comprar,1456,0,0
+1764709311355,39684,GET - Filmes,200,OK,Thread Group 1-71,text,true,,540,158,332,332,http://localhost:3000/api/filmes,39684,0,0
+1764709350340,1368,POST - Comprar,200,OK,Thread Group 1-70,text,true,,313,200,338,338,http://localhost:3000/api/comprar,1368,0,0
+1764709311475,40234,GET - Filmes,200,OK,Thread Group 1-72,text,true,,540,158,337,337,http://localhost:3000/api/filmes,40234,0,1
+1764709351038,1334,POST - Comprar,200,OK,Thread Group 1-71,text,true,,312,200,342,342,http://localhost:3000/api/comprar,1334,0,0
+1764709311596,40777,GET - Filmes,200,OK,Thread Group 1-73,text,true,,540,158,341,341,http://localhost:3000/api/filmes,40777,0,0
+1764709351709,1314,POST - Comprar,200,OK,Thread Group 1-72,text,true,,312,200,347,347,http://localhost:3000/api/comprar,1314,0,0
+1764709311715,41310,GET - Filmes,200,OK,Thread Group 1-74,text,true,,540,158,346,346,http://localhost:3000/api/filmes,41310,0,1
+1764709352372,1302,POST - Comprar,200,OK,Thread Group 1-73,text,true,,312,200,351,351,http://localhost:3000/api/comprar,1302,0,0
+1764709311834,41841,GET - Filmes,200,OK,Thread Group 1-75,text,true,,540,158,350,350,http://localhost:3000/api/filmes,41841,0,1
+1764709353024,1306,POST - Comprar,200,OK,Thread Group 1-74,text,true,,312,200,356,356,http://localhost:3000/api/comprar,1306,0,0
+1764709311954,42378,GET - Filmes,200,OK,Thread Group 1-76,text,true,,540,158,356,356,http://localhost:3000/api/filmes,42378,0,1
+1764709353675,1310,POST - Comprar,200,OK,Thread Group 1-75,text,true,,313,200,360,360,http://localhost:3000/api/comprar,1310,0,0
+1764709312075,42912,GET - Filmes,200,OK,Thread Group 1-77,text,true,,540,158,359,359,http://localhost:3000/api/filmes,42912,0,0
+1764709354331,1307,POST - Comprar,200,OK,Thread Group 1-76,text,true,,312,200,365,365,http://localhost:3000/api/comprar,1307,0,0
+1764709312196,43443,GET - Filmes,200,OK,Thread Group 1-78,text,true,,540,158,364,364,http://localhost:3000/api/filmes,43443,0,0
+1764709354986,1306,POST - Comprar,200,OK,Thread Group 1-77,text,true,,313,200,369,369,http://localhost:3000/api/comprar,1306,0,0
+1764709312316,43977,GET - Filmes,200,OK,Thread Group 1-79,text,true,,540,158,368,368,http://localhost:3000/api/filmes,43977,0,1
+1764709355640,1311,POST - Comprar,200,OK,Thread Group 1-78,text,true,,312,200,373,373,http://localhost:3000/api/comprar,1311,0,0
+1764709312434,44517,GET - Filmes,200,OK,Thread Group 1-80,text,true,,540,158,372,372,http://localhost:3000/api/filmes,44517,0,1
+1764709356293,1309,POST - Comprar,200,OK,Thread Group 1-79,text,true,,313,200,378,378,http://localhost:3000/api/comprar,1309,0,0
+1764709312555,45048,GET - Filmes,200,OK,Thread Group 1-81,text,true,,540,158,378,378,http://localhost:3000/api/filmes,45048,0,1
+1764709356952,1325,POST - Comprar,200,OK,Thread Group 1-80,text,true,,312,200,383,383,http://localhost:3000/api/comprar,1325,0,0
+1764709312675,45602,GET - Filmes,200,OK,Thread Group 1-82,text,true,,540,158,382,382,http://localhost:3000/api/filmes,45602,0,0
+1764709357603,1341,POST - Comprar,200,OK,Thread Group 1-81,text,true,,313,200,387,387,http://localhost:3000/api/comprar,1341,0,0
+1764709312795,46150,GET - Filmes,200,OK,Thread Group 1-83,text,true,,540,158,386,386,http://localhost:3000/api/filmes,46150,0,0
+1764709358277,1332,POST - Comprar,200,OK,Thread Group 1-82,text,true,,313,200,392,392,http://localhost:3000/api/comprar,1332,0,0
+1764709312916,46694,GET - Filmes,200,OK,Thread Group 1-84,text,true,,540,158,391,391,http://localhost:3000/api/filmes,46694,0,1
+1764709358945,1326,POST - Comprar,200,OK,Thread Group 1-83,text,true,,312,200,396,396,http://localhost:3000/api/comprar,1326,0,0
+1764709313034,47237,GET - Filmes,200,OK,Thread Group 1-85,text,true,,540,158,395,395,http://localhost:3000/api/filmes,47237,0,1
+1764709359610,1323,POST - Comprar,200,OK,Thread Group 1-84,text,true,,312,200,401,401,http://localhost:3000/api/comprar,1323,0,0
+1764709313154,47780,GET - Filmes,200,OK,Thread Group 1-86,text,true,,540,158,400,400,http://localhost:3000/api/filmes,47780,0,1
+1764709360270,1323,POST - Comprar,200,OK,Thread Group 1-85,text,true,,313,200,405,405,http://localhost:3000/api/comprar,1323,0,0
+1764709313274,48321,GET - Filmes,200,OK,Thread Group 1-87,text,true,,540,158,404,404,http://localhost:3000/api/filmes,48321,0,1
+1764709360933,1319,POST - Comprar,200,OK,Thread Group 1-86,text,true,,312,200,410,410,http://localhost:3000/api/comprar,1319,0,0
+1764709313395,48858,GET - Filmes,200,OK,Thread Group 1-88,text,true,,540,158,409,409,http://localhost:3000/api/filmes,48858,0,0
+1764709361594,1322,POST - Comprar,200,OK,Thread Group 1-87,text,true,,312,200,414,414,http://localhost:3000/api/comprar,1322,0,0
+1764709313516,49401,GET - Filmes,200,OK,Thread Group 1-89,text,true,,540,158,413,413,http://localhost:3000/api/filmes,49401,0,0
+1764709362253,1314,POST - Comprar,200,OK,Thread Group 1-88,text,true,,312,200,413,413,http://localhost:3000/api/comprar,1314,0,0
+1764709313636,49932,GET - Filmes,200,OK,Thread Group 1-90,text,true,,540,158,412,412,http://localhost:3000/api/filmes,49932,0,0
+1764709362916,1302,POST - Comprar,200,OK,Thread Group 1-89,text,true,,313,200,412,412,http://localhost:3000/api/comprar,1302,0,0
+1764709313756,50463,GET - Filmes,200,OK,Thread Group 1-91,text,true,,540,158,412,412,http://localhost:3000/api/filmes,50463,0,1
+1764709363568,1296,POST - Comprar,200,OK,Thread Group 1-90,text,true,,312,200,411,411,http://localhost:3000/api/comprar,1296,0,0
+1764709313877,50989,GET - Filmes,200,OK,Thread Group 1-92,text,true,,540,158,410,410,http://localhost:3000/api/filmes,50989,0,1
+1764709364219,1301,POST - Comprar,200,OK,Thread Group 1-91,text,true,,313,200,410,410,http://localhost:3000/api/comprar,1301,0,0
+1764709313994,51528,GET - Filmes,200,OK,Thread Group 1-93,text,true,,540,158,410,410,http://localhost:3000/api/filmes,51528,0,1
+1764709364865,1317,POST - Comprar,200,OK,Thread Group 1-92,text,true,,313,200,409,409,http://localhost:3000/api/comprar,1317,0,0
+1764709314115,52069,GET - Filmes,200,OK,Thread Group 1-94,text,true,,540,158,408,408,http://localhost:3000/api/filmes,52069,0,0
+1764709365521,1318,POST - Comprar,200,OK,Thread Group 1-93,text,true,,313,200,408,408,http://localhost:3000/api/comprar,1318,0,0
+1764709314234,52606,GET - Filmes,200,OK,Thread Group 1-95,text,true,,540,158,408,408,http://localhost:3000/api/filmes,52606,0,1
+1764709366183,1317,POST - Comprar,200,OK,Thread Group 1-94,text,true,,312,200,407,407,http://localhost:3000/api/comprar,1317,0,0
+1764709314355,53146,GET - Filmes,200,OK,Thread Group 1-96,text,true,,540,158,407,407,http://localhost:3000/api/filmes,53146,0,0
+1764709366840,1331,POST - Comprar,200,OK,Thread Group 1-95,text,true,,313,200,406,406,http://localhost:3000/api/comprar,1331,0,0
+1764709314474,53698,GET - Filmes,200,OK,Thread Group 1-97,text,true,,540,158,405,405,http://localhost:3000/api/filmes,53698,0,1
+1764709367500,1325,POST - Comprar,200,OK,Thread Group 1-96,text,true,,312,200,405,405,http://localhost:3000/api/comprar,1325,0,0
+1764709314595,54232,GET - Filmes,200,OK,Thread Group 1-98,text,true,,540,158,404,404,http://localhost:3000/api/filmes,54232,0,0
+1764709368172,1332,POST - Comprar,200,OK,Thread Group 1-97,text,true,,312,200,404,404,http://localhost:3000/api/comprar,1332,0,0
+1764709314716,54790,GET - Filmes,200,OK,Thread Group 1-99,text,true,,540,158,403,403,http://localhost:3000/api/filmes,54790,0,0
+1764709368826,1362,POST - Comprar,200,OK,Thread Group 1-98,text,true,,312,200,403,403,http://localhost:3000/api/comprar,1362,0,0
+1764709314835,55354,GET - Filmes,200,OK,Thread Group 1-100,text,true,,540,158,402,402,http://localhost:3000/api/filmes,55354,0,1
+1764709369505,1364,POST - Comprar,200,OK,Thread Group 1-99,text,true,,313,200,402,402,http://localhost:3000/api/comprar,1364,0,0
+1764709314954,55916,GET - Filmes,200,OK,Thread Group 1-101,text,true,,540,158,401,401,http://localhost:3000/api/filmes,55916,0,1
+1764709370188,1382,POST - Comprar,200,OK,Thread Group 1-100,text,true,,312,200,401,401,http://localhost:3000/api/comprar,1382,0,0
+1764709315074,56498,GET - Filmes,200,OK,Thread Group 1-102,text,true,,540,158,400,400,http://localhost:3000/api/filmes,56498,0,1
+1764709370870,1386,POST - Comprar,200,OK,Thread Group 1-101,text,true,,312,200,400,400,http://localhost:3000/api/comprar,1386,0,0
+1764709315195,57063,GET - Filmes,200,OK,Thread Group 1-103,text,true,,540,158,399,399,http://localhost:3000/api/filmes,57063,0,0
+1764709371571,1341,POST - Comprar,200,OK,Thread Group 1-102,text,true,,312,200,399,399,http://localhost:3000/api/comprar,1341,0,0
+1764709315313,57599,GET - Filmes,200,OK,Thread Group 1-104,text,true,,540,158,398,398,http://localhost:3000/api/filmes,57599,0,1
+1764709372257,1306,POST - Comprar,200,OK,Thread Group 1-103,text,true,,313,200,398,398,http://localhost:3000/api/comprar,1306,0,0
+1764709315434,58130,GET - Filmes,200,OK,Thread Group 1-105,text,true,,540,158,397,397,http://localhost:3000/api/filmes,58129,0,0
+1764709372913,1363,POST - Comprar,200,OK,Thread Group 1-104,text,true,,313,200,397,397,http://localhost:3000/api/comprar,1363,0,0
+1764709315554,58723,GET - Filmes,200,OK,Thread Group 1-106,text,true,,540,158,396,396,http://localhost:3000/api/filmes,58722,0,0
+1764709373564,1437,POST - Comprar,200,OK,Thread Group 1-105,text,true,,313,200,396,396,http://localhost:3000/api/comprar,1437,0,0
+1764709315674,59328,GET - Filmes,200,OK,Thread Group 1-107,text,true,,540,158,395,395,http://localhost:3000/api/filmes,59328,0,0
+1764709374277,1451,POST - Comprar,200,OK,Thread Group 1-106,text,true,,313,200,395,395,http://localhost:3000/api/comprar,1451,0,0
+1764709315793,59936,GET - Filmes,200,OK,Thread Group 1-108,text,true,,540,158,394,394,http://localhost:3000/api/filmes,59936,0,1
+1764709375002,1434,POST - Comprar,200,OK,Thread Group 1-107,text,true,,312,200,394,394,http://localhost:3000/api/comprar,1434,0,0
+1764709315914,60522,GET - Filmes,200,OK,Thread Group 1-109,text,true,,540,158,393,393,http://localhost:3000/api/filmes,60522,0,0
+1764709375729,1391,POST - Comprar,200,OK,Thread Group 1-108,text,true,,313,200,393,393,http://localhost:3000/api/comprar,1391,0,0
+1764709316034,61087,GET - Filmes,200,OK,Thread Group 1-110,text,true,,540,158,392,392,http://localhost:3000/api/filmes,61087,0,0
+1764709376437,1460,POST - Comprar,200,OK,Thread Group 1-109,text,true,,313,200,392,392,http://localhost:3000/api/comprar,1460,0,0
+1764709316155,61742,GET - Filmes,200,OK,Thread Group 1-111,text,true,,540,158,392,392,http://localhost:3000/api/filmes,61742,0,0
+1764709316273,61624,GET - Filmes,200,OK,Thread Group 1-112,text,true,,540,158,392,392,http://localhost:3000/api/filmes,61624,0,1
+1764709316394,61504,GET - Filmes,200,OK,Thread Group 1-113,text,true,,540,158,391,391,http://localhost:3000/api/filmes,61504,0,0
+1764709316514,61384,GET - Filmes,200,OK,Thread Group 1-114,text,true,,540,158,391,391,http://localhost:3000/api/filmes,61384,0,0
+1764709316634,61264,GET - Filmes,200,OK,Thread Group 1-115,text,true,,540,158,391,391,http://localhost:3000/api/filmes,61264,0,0
+1764709316754,61144,GET - Filmes,200,OK,Thread Group 1-116,text,true,,540,158,391,391,http://localhost:3000/api/filmes,61144,0,0
+1764709316875,61023,GET - Filmes,200,OK,Thread Group 1-117,text,true,,540,158,391,391,http://localhost:3000/api/filmes,61023,0,0
+1764709316995,60904,GET - Filmes,200,OK,Thread Group 1-118,text,true,,540,158,391,391,http://localhost:3000/api/filmes,60904,0,0
+1764709317114,60785,GET - Filmes,200,OK,Thread Group 1-119,text,true,,540,158,391,391,http://localhost:3000/api/filmes,60785,0,0
+1764709317234,60665,GET - Filmes,200,OK,Thread Group 1-120,text,true,,540,158,391,391,http://localhost:3000/api/filmes,60665,0,0
+1764709317354,60545,GET - Filmes,200,OK,Thread Group 1-121,text,true,,540,158,391,391,http://localhost:3000/api/filmes,60545,0,0
+1764709317474,60425,GET - Filmes,200,OK,Thread Group 1-122,text,true,,540,158,391,391,http://localhost:3000/api/filmes,60425,0,0
+1764709317594,60306,GET - Filmes,200,OK,Thread Group 1-123,text,true,,540,158,391,391,http://localhost:3000/api/filmes,60306,0,0
+1764709317715,60185,GET - Filmes,200,OK,Thread Group 1-124,text,true,,540,158,391,391,http://localhost:3000/api/filmes,60185,0,0
+1764709317835,60065,GET - Filmes,200,OK,Thread Group 1-125,text,true,,540,158,391,391,http://localhost:3000/api/filmes,60065,0,0
+1764709317953,59947,GET - Filmes,200,OK,Thread Group 1-126,text,true,,540,158,391,391,http://localhost:3000/api/filmes,59947,0,1
+1764709318074,59826,GET - Filmes,200,OK,Thread Group 1-127,text,true,,540,158,391,391,http://localhost:3000/api/filmes,59826,0,0
+1764709318194,59707,GET - Filmes,200,OK,Thread Group 1-128,text,true,,540,158,391,391,http://localhost:3000/api/filmes,59707,0,0
+1764709318314,59587,GET - Filmes,200,OK,Thread Group 1-129,text,true,,540,158,391,391,http://localhost:3000/api/filmes,59587,0,0
+1764709318434,59467,GET - Filmes,200,OK,Thread Group 1-130,text,true,,540,158,391,391,http://localhost:3000/api/filmes,59467,0,0
+1764709318554,59347,GET - Filmes,200,OK,Thread Group 1-131,text,true,,540,158,391,391,http://localhost:3000/api/filmes,59347,0,0
+1764709318674,59227,GET - Filmes,200,OK,Thread Group 1-132,text,true,,540,158,391,391,http://localhost:3000/api/filmes,59227,0,0
+1764709318795,59107,GET - Filmes,200,OK,Thread Group 1-133,text,true,,540,158,391,391,http://localhost:3000/api/filmes,59107,0,1
+1764709318914,58988,GET - Filmes,200,OK,Thread Group 1-134,text,true,,540,158,391,391,http://localhost:3000/api/filmes,58988,0,0
+1764709319034,58868,GET - Filmes,200,OK,Thread Group 1-135,text,true,,540,158,391,391,http://localhost:3000/api/filmes,58868,0,0
+1764709319154,58748,GET - Filmes,200,OK,Thread Group 1-136,text,true,,540,158,391,391,http://localhost:3000/api/filmes,58748,0,0
+1764709319274,58628,GET - Filmes,200,OK,Thread Group 1-137,text,true,,540,158,391,391,http://localhost:3000/api/filmes,58628,0,0
+1764709319394,58509,GET - Filmes,200,OK,Thread Group 1-138,text,true,,540,158,391,391,http://localhost:3000/api/filmes,58509,0,0
+1764709319514,58389,GET - Filmes,200,OK,Thread Group 1-139,text,true,,540,158,391,391,http://localhost:3000/api/filmes,58389,0,0
+1764709319634,58269,GET - Filmes,200,OK,Thread Group 1-140,text,true,,540,158,391,391,http://localhost:3000/api/filmes,58269,0,1
+1764709319755,58149,GET - Filmes,200,OK,Thread Group 1-141,text,true,,540,158,391,391,http://localhost:3000/api/filmes,58149,0,0
+1764709319874,58030,GET - Filmes,200,OK,Thread Group 1-142,text,true,,540,158,391,391,http://localhost:3000/api/filmes,58030,0,1
+1764709319993,57911,GET - Filmes,200,OK,Thread Group 1-143,text,true,,540,158,391,391,http://localhost:3000/api/filmes,57911,0,1
+1764709320114,57791,GET - Filmes,200,OK,Thread Group 1-144,text,true,,540,158,391,391,http://localhost:3000/api/filmes,57791,0,0
+1764709320234,57671,GET - Filmes,200,OK,Thread Group 1-145,text,true,,540,158,391,391,http://localhost:3000/api/filmes,57671,0,0
+1764709320594,57312,GET - Filmes,200,OK,Thread Group 1-148,text,true,,540,158,391,391,http://localhost:3000/api/filmes,57312,0,0
+1764709320714,57192,GET - Filmes,200,OK,Thread Group 1-149,text,true,,540,158,391,391,http://localhost:3000/api/filmes,57192,0,1
+1764709320835,57071,GET - Filmes,200,OK,Thread Group 1-150,text,true,,540,158,391,391,http://localhost:3000/api/filmes,57071,0,0
+1764709320954,56953,GET - Filmes,200,OK,Thread Group 1-151,text,true,,540,158,391,391,http://localhost:3000/api/filmes,56953,0,1
+1764709320354,57553,GET - Filmes,200,OK,Thread Group 1-146,text,true,,540,158,391,391,http://localhost:3000/api/filmes,57553,0,0
+1764709321074,56833,GET - Filmes,200,OK,Thread Group 1-152,text,true,,540,158,391,391,http://localhost:3000/api/filmes,56833,0,0
+1764709320474,57433,GET - Filmes,200,OK,Thread Group 1-147,text,true,,540,158,391,391,http://localhost:3000/api/filmes,57433,0,0
+1764709321194,56713,GET - Filmes,200,OK,Thread Group 1-153,text,true,,540,158,391,391,http://localhost:3000/api/filmes,56713,0,0
+1764709321314,56593,GET - Filmes,200,OK,Thread Group 1-154,text,true,,540,158,391,391,http://localhost:3000/api/filmes,56593,0,0
+1764709321434,56473,GET - Filmes,200,OK,Thread Group 1-155,text,true,,540,158,391,391,http://localhost:3000/api/filmes,56473,0,0
+1764709321554,56354,GET - Filmes,200,OK,Thread Group 1-156,text,true,,540,158,391,391,http://localhost:3000/api/filmes,56354,0,0
+1764709321674,56234,GET - Filmes,200,OK,Thread Group 1-157,text,true,,540,158,391,391,http://localhost:3000/api/filmes,56234,0,0
+1764709321794,56114,GET - Filmes,200,OK,Thread Group 1-158,text,true,,540,158,391,391,http://localhost:3000/api/filmes,56114,0,1
+1764709321913,55995,GET - Filmes,200,OK,Thread Group 1-159,text,true,,540,158,391,391,http://localhost:3000/api/filmes,55995,0,1
+1764709322034,55875,GET - Filmes,200,OK,Thread Group 1-160,text,true,,540,158,391,391,http://localhost:3000/api/filmes,55875,0,0
+1764709322154,55755,GET - Filmes,200,OK,Thread Group 1-161,text,true,,540,158,391,391,http://localhost:3000/api/filmes,55755,0,0
+1764709322274,55635,GET - Filmes,200,OK,Thread Group 1-162,text,true,,540,158,391,391,http://localhost:3000/api/filmes,55635,0,0
+1764709322394,55515,GET - Filmes,200,OK,Thread Group 1-163,text,true,,540,158,391,391,http://localhost:3000/api/filmes,55515,0,0
+1764709322514,55396,GET - Filmes,200,OK,Thread Group 1-164,text,true,,540,158,391,391,http://localhost:3000/api/filmes,55396,0,0
+1764709322633,55277,GET - Filmes,200,OK,Thread Group 1-165,text,true,,540,158,391,391,http://localhost:3000/api/filmes,55277,0,0
+1764709322754,55156,GET - Filmes,200,OK,Thread Group 1-166,text,true,,540,158,391,391,http://localhost:3000/api/filmes,55156,0,1
+1764709322874,55036,GET - Filmes,200,OK,Thread Group 1-167,text,true,,540,158,391,391,http://localhost:3000/api/filmes,55036,0,1
+1764709322994,54916,GET - Filmes,200,OK,Thread Group 1-168,text,true,,540,158,391,391,http://localhost:3000/api/filmes,54916,0,0
+1764709323114,54797,GET - Filmes,200,OK,Thread Group 1-169,text,true,,540,158,391,391,http://localhost:3000/api/filmes,54797,0,0
+1764709323234,54677,GET - Filmes,200,OK,Thread Group 1-170,text,true,,540,158,391,391,http://localhost:3000/api/filmes,54677,0,0
+1764709323354,54557,GET - Filmes,200,OK,Thread Group 1-171,text,true,,540,158,391,391,http://localhost:3000/api/filmes,54557,0,0
+1764709323474,54437,GET - Filmes,200,OK,Thread Group 1-172,text,true,,540,158,391,391,http://localhost:3000/api/filmes,54437,0,0
+1764709323593,54318,GET - Filmes,200,OK,Thread Group 1-173,text,true,,540,158,391,391,http://localhost:3000/api/filmes,54318,0,1
+1764709323714,54198,GET - Filmes,200,OK,Thread Group 1-174,text,true,,540,158,391,391,http://localhost:3000/api/filmes,54198,0,1
+1764709323835,54077,GET - Filmes,200,OK,Thread Group 1-175,text,true,,540,158,391,391,http://localhost:3000/api/filmes,54077,0,0
+1764709323954,53958,GET - Filmes,200,OK,Thread Group 1-176,text,true,,540,158,391,391,http://localhost:3000/api/filmes,53958,0,0
+1764709324074,53838,GET - Filmes,200,OK,Thread Group 1-177,text,true,,540,158,391,391,http://localhost:3000/api/filmes,53838,0,0
+1764709324193,53719,GET - Filmes,200,OK,Thread Group 1-178,text,true,,540,158,391,391,http://localhost:3000/api/filmes,53719,0,0
+1764709324314,53598,GET - Filmes,200,OK,Thread Group 1-179,text,true,,540,158,391,391,http://localhost:3000/api/filmes,53598,0,0
+1764709324435,53477,GET - Filmes,200,OK,Thread Group 1-180,text,true,,540,158,391,391,http://localhost:3000/api/filmes,53477,0,0
+1764709324555,53358,GET - Filmes,200,OK,Thread Group 1-181,text,true,,540,158,391,391,http://localhost:3000/api/filmes,53358,0,0
+1764709324674,53239,GET - Filmes,200,OK,Thread Group 1-182,text,true,,540,158,391,391,http://localhost:3000/api/filmes,53239,0,0
+1764709324794,53119,GET - Filmes,200,OK,Thread Group 1-183,text,true,,540,158,391,391,http://localhost:3000/api/filmes,53119,0,0
+1764709324914,52999,GET - Filmes,200,OK,Thread Group 1-184,text,true,,540,158,391,391,http://localhost:3000/api/filmes,52999,0,1
+1764709325035,52878,GET - Filmes,200,OK,Thread Group 1-185,text,true,,540,158,391,391,http://localhost:3000/api/filmes,52878,0,1
+1764709325156,52758,GET - Filmes,200,OK,Thread Group 1-186,text,true,,540,158,391,391,http://localhost:3000/api/filmes,52758,0,1
+1764709325275,52639,GET - Filmes,200,OK,Thread Group 1-187,text,true,,540,158,391,391,http://localhost:3000/api/filmes,52639,0,0
+1764709325395,52519,GET - Filmes,200,OK,Thread Group 1-188,text,true,,540,158,391,391,http://localhost:3000/api/filmes,52519,0,0
+1764709325514,52400,GET - Filmes,200,OK,Thread Group 1-189,text,true,,540,158,391,391,http://localhost:3000/api/filmes,52400,0,0
+1764709325633,52282,GET - Filmes,200,OK,Thread Group 1-190,text,true,,540,158,391,391,http://localhost:3000/api/filmes,52282,0,1
+1764709325753,52162,GET - Filmes,200,OK,Thread Group 1-191,text,true,,540,158,391,391,http://localhost:3000/api/filmes,52162,0,1
+1764709325874,52041,GET - Filmes,200,OK,Thread Group 1-192,text,true,,540,158,391,391,http://localhost:3000/api/filmes,52041,0,0
+1764709325993,51922,GET - Filmes,200,OK,Thread Group 1-193,text,true,,540,158,391,391,http://localhost:3000/api/filmes,51922,0,1
+1764709326114,51802,GET - Filmes,200,OK,Thread Group 1-194,text,true,,540,158,391,391,http://localhost:3000/api/filmes,51802,0,1
+1764709326234,51682,GET - Filmes,200,OK,Thread Group 1-195,text,true,,540,158,391,391,http://localhost:3000/api/filmes,51682,0,1
+1764709326353,51563,GET - Filmes,200,OK,Thread Group 1-196,text,true,,540,158,391,391,http://localhost:3000/api/filmes,51563,0,0
+1764709326474,51442,GET - Filmes,200,OK,Thread Group 1-197,text,true,,540,158,391,391,http://localhost:3000/api/filmes,51442,0,0
+1764709326594,51323,GET - Filmes,200,OK,Thread Group 1-198,text,true,,540,158,391,391,http://localhost:3000/api/filmes,51323,0,0
+1764709326714,51203,GET - Filmes,200,OK,Thread Group 1-199,text,true,,540,158,391,391,http://localhost:3000/api/filmes,51203,0,0
+1764709326834,51083,GET - Filmes,200,OK,Thread Group 1-200,text,true,,540,158,391,391,http://localhost:3000/api/filmes,51083,0,0
+1764709326953,50964,GET - Filmes,200,OK,Thread Group 1-201,text,true,,540,158,391,391,http://localhost:3000/api/filmes,50964,0,0
+1764709327073,50844,GET - Filmes,200,OK,Thread Group 1-202,text,true,,540,158,391,391,http://localhost:3000/api/filmes,50844,0,1
+1764709327194,50724,GET - Filmes,200,OK,Thread Group 1-203,text,true,,540,158,391,391,http://localhost:3000/api/filmes,50724,0,0
+1764709327315,50603,GET - Filmes,200,OK,Thread Group 1-204,text,true,,540,158,391,391,http://localhost:3000/api/filmes,50603,0,0
+1764709327433,50485,GET - Filmes,200,OK,Thread Group 1-205,text,true,,540,158,391,391,http://localhost:3000/api/filmes,50485,0,1
+1764709327553,50365,GET - Filmes,200,OK,Thread Group 1-206,text,true,,540,158,391,391,http://localhost:3000/api/filmes,50365,0,1
+1764709327673,50246,GET - Filmes,200,OK,Thread Group 1-207,text,true,,540,158,391,391,http://localhost:3000/api/filmes,50246,0,0
+1764709327793,50126,GET - Filmes,200,OK,Thread Group 1-208,text,true,,540,158,391,391,http://localhost:3000/api/filmes,50126,0,1
+1764709327913,50006,GET - Filmes,200,OK,Thread Group 1-209,text,true,,540,158,391,391,http://localhost:3000/api/filmes,50006,0,1
+1764709328034,49885,GET - Filmes,200,OK,Thread Group 1-210,text,true,,540,158,391,391,http://localhost:3000/api/filmes,49885,0,1
+1764709328155,49764,GET - Filmes,200,OK,Thread Group 1-211,text,true,,540,158,391,391,http://localhost:3000/api/filmes,49764,0,0
+1764709328274,49646,GET - Filmes,200,OK,Thread Group 1-212,text,true,,540,158,391,391,http://localhost:3000/api/filmes,49646,0,0
+1764709328393,49527,GET - Filmes,200,OK,Thread Group 1-213,text,true,,540,158,391,391,http://localhost:3000/api/filmes,49527,0,1
+1764709328514,49406,GET - Filmes,200,OK,Thread Group 1-214,text,true,,540,158,391,391,http://localhost:3000/api/filmes,49406,0,0
+1764709328634,49287,GET - Filmes,200,OK,Thread Group 1-215,text,true,,540,158,391,391,http://localhost:3000/api/filmes,49287,0,0
+1764709328753,49168,GET - Filmes,200,OK,Thread Group 1-216,text,true,,540,158,391,391,http://localhost:3000/api/filmes,49168,0,1
+1764709328875,49046,GET - Filmes,200,OK,Thread Group 1-217,text,true,,540,158,391,391,http://localhost:3000/api/filmes,49046,0,0
+1764709328995,48926,GET - Filmes,200,OK,Thread Group 1-218,text,true,,540,158,391,391,http://localhost:3000/api/filmes,48926,0,0
+1764709329115,48806,GET - Filmes,200,OK,Thread Group 1-219,text,true,,540,158,391,391,http://localhost:3000/api/filmes,48806,0,0
+1764709329235,48687,GET - Filmes,200,OK,Thread Group 1-220,text,true,,540,158,391,391,http://localhost:3000/api/filmes,48687,0,1
+1764709329354,48568,GET - Filmes,200,OK,Thread Group 1-221,text,true,,540,158,391,391,http://localhost:3000/api/filmes,48568,0,0
+1764709329473,48449,GET - Filmes,200,OK,Thread Group 1-222,text,true,,540,158,391,391,http://localhost:3000/api/filmes,48449,0,1
+1764709329593,48330,GET - Filmes,200,OK,Thread Group 1-223,text,true,,540,158,391,391,http://localhost:3000/api/filmes,48330,0,1
+1764709329713,48210,GET - Filmes,200,OK,Thread Group 1-224,text,true,,540,158,391,391,http://localhost:3000/api/filmes,48210,0,1
+1764709329835,48088,GET - Filmes,200,OK,Thread Group 1-225,text,true,,540,158,391,391,http://localhost:3000/api/filmes,48088,0,1
+1764709329955,47968,GET - Filmes,200,OK,Thread Group 1-226,text,true,,540,158,391,391,http://localhost:3000/api/filmes,47968,0,0
+1764709330073,47851,GET - Filmes,200,OK,Thread Group 1-227,text,true,,540,158,391,391,http://localhost:3000/api/filmes,47851,0,1
+1764709330193,47731,GET - Filmes,200,OK,Thread Group 1-228,text,true,,540,158,391,391,http://localhost:3000/api/filmes,47731,0,1
+1764709330313,47611,GET - Filmes,200,OK,Thread Group 1-229,text,true,,540,158,391,391,http://localhost:3000/api/filmes,47611,0,1
+1764709330433,47491,GET - Filmes,200,OK,Thread Group 1-230,text,true,,540,158,391,391,http://localhost:3000/api/filmes,47491,0,0
+1764709330553,47372,GET - Filmes,200,OK,Thread Group 1-231,text,true,,540,158,391,391,http://localhost:3000/api/filmes,47372,0,1
+1764709330674,47251,GET - Filmes,200,OK,Thread Group 1-232,text,true,,540,158,391,391,http://localhost:3000/api/filmes,47251,0,2
+1764709330794,47131,GET - Filmes,200,OK,Thread Group 1-233,text,true,,540,158,391,391,http://localhost:3000/api/filmes,47131,0,1
+1764709330914,47011,GET - Filmes,200,OK,Thread Group 1-234,text,true,,540,158,391,391,http://localhost:3000/api/filmes,47011,0,0
+1764709331035,46891,GET - Filmes,200,OK,Thread Group 1-235,text,true,,540,158,391,391,http://localhost:3000/api/filmes,46891,0,0
+1764709331154,46772,GET - Filmes,200,OK,Thread Group 1-236,text,true,,540,158,391,391,http://localhost:3000/api/filmes,46772,0,0
+1764709331274,46652,GET - Filmes,200,OK,Thread Group 1-237,text,true,,540,158,391,391,http://localhost:3000/api/filmes,46652,0,1
+1764709331397,46530,GET - Filmes,200,OK,Thread Group 1-238,text,true,,540,158,391,391,http://localhost:3000/api/filmes,46530,0,2
+1764709331515,46412,GET - Filmes,200,OK,Thread Group 1-239,text,true,,540,158,391,391,http://localhost:3000/api/filmes,46412,0,1
+1764709331633,46294,GET - Filmes,200,OK,Thread Group 1-240,text,true,,540,158,391,391,http://localhost:3000/api/filmes,46294,0,1
+1764709331753,46174,GET - Filmes,200,OK,Thread Group 1-241,text,true,,540,158,391,391,http://localhost:3000/api/filmes,46174,0,1
+1764709331874,46053,GET - Filmes,200,OK,Thread Group 1-242,text,true,,540,158,391,391,http://localhost:3000/api/filmes,46053,0,0
+1764709331994,45934,GET - Filmes,200,OK,Thread Group 1-243,text,true,,540,158,391,391,http://localhost:3000/api/filmes,45934,0,0
+1764709332115,45813,GET - Filmes,200,OK,Thread Group 1-244,text,true,,540,158,391,391,http://localhost:3000/api/filmes,45813,0,1
+1764709332234,45694,GET - Filmes,200,OK,Thread Group 1-245,text,true,,540,158,391,391,http://localhost:3000/api/filmes,45694,0,1
+1764709332354,45574,GET - Filmes,200,OK,Thread Group 1-246,text,true,,540,158,391,391,http://localhost:3000/api/filmes,45574,0,0
+1764709332474,45455,GET - Filmes,200,OK,Thread Group 1-247,text,true,,540,158,391,391,http://localhost:3000/api/filmes,45455,0,0
+1764709332593,45336,GET - Filmes,200,OK,Thread Group 1-248,text,true,,540,158,391,391,http://localhost:3000/api/filmes,45336,0,1
+1764709332713,45216,GET - Filmes,200,OK,Thread Group 1-249,text,true,,540,158,391,391,http://localhost:3000/api/filmes,45216,0,1
+1764709332833,45096,GET - Filmes,200,OK,Thread Group 1-250,text,true,,540,158,391,391,http://localhost:3000/api/filmes,45096,0,1
+1764709332954,44975,GET - Filmes,200,OK,Thread Group 1-251,text,true,,540,158,391,391,http://localhost:3000/api/filmes,44975,0,0
+1764709333073,44857,GET - Filmes,200,OK,Thread Group 1-252,text,true,,540,158,391,391,http://localhost:3000/api/filmes,44857,0,1
+1764709333194,44736,GET - Filmes,200,OK,Thread Group 1-253,text,true,,540,158,391,391,http://localhost:3000/api/filmes,44736,0,1
+1764709333313,44617,GET - Filmes,200,OK,Thread Group 1-254,text,true,,540,158,391,391,http://localhost:3000/api/filmes,44617,0,1
+1764709333433,44497,GET - Filmes,200,OK,Thread Group 1-255,text,true,,540,158,391,391,http://localhost:3000/api/filmes,44497,0,1
+1764709333553,44377,GET - Filmes,200,OK,Thread Group 1-256,text,true,,540,158,391,391,http://localhost:3000/api/filmes,44377,0,1
+1764709333673,44258,GET - Filmes,200,OK,Thread Group 1-257,text,true,,540,158,391,391,http://localhost:3000/api/filmes,44258,0,1
+1764709333793,44138,GET - Filmes,200,OK,Thread Group 1-258,text,true,,540,158,391,391,http://localhost:3000/api/filmes,44138,0,1
+1764709333914,44017,GET - Filmes,200,OK,Thread Group 1-259,text,true,,540,158,391,391,http://localhost:3000/api/filmes,44017,0,0
+1764709334034,43897,GET - Filmes,200,OK,Thread Group 1-260,text,true,,540,158,391,391,http://localhost:3000/api/filmes,43897,0,0
+1764709334155,43776,GET - Filmes,200,OK,Thread Group 1-261,text,true,,540,158,391,391,http://localhost:3000/api/filmes,43776,0,0
+1764709334275,43657,GET - Filmes,200,OK,Thread Group 1-262,text,true,,540,158,391,391,http://localhost:3000/api/filmes,43657,0,0
+1764709334393,43539,GET - Filmes,200,OK,Thread Group 1-263,text,true,,540,158,391,391,http://localhost:3000/api/filmes,43539,0,0
+1764709334514,43418,GET - Filmes,200,OK,Thread Group 1-264,text,true,,540,158,391,391,http://localhost:3000/api/filmes,43418,0,0
+1764709334633,43299,GET - Filmes,200,OK,Thread Group 1-265,text,true,,540,158,391,391,http://localhost:3000/api/filmes,43299,0,1
+1764709334753,43180,GET - Filmes,200,OK,Thread Group 1-266,text,true,,540,158,391,391,http://localhost:3000/api/filmes,43180,0,1
+1764709334873,43060,GET - Filmes,200,OK,Thread Group 1-267,text,true,,540,158,391,391,http://localhost:3000/api/filmes,43060,0,1
+1764709334994,42939,GET - Filmes,200,OK,Thread Group 1-268,text,true,,540,158,391,391,http://localhost:3000/api/filmes,42939,0,0
+1764709335113,42820,GET - Filmes,200,OK,Thread Group 1-269,text,true,,540,158,391,391,http://localhost:3000/api/filmes,42820,0,1
+1764709335233,42700,GET - Filmes,200,OK,Thread Group 1-270,text,true,,540,158,391,391,http://localhost:3000/api/filmes,42700,0,0
+1764709335354,42580,GET - Filmes,200,OK,Thread Group 1-271,text,true,,540,158,391,391,http://localhost:3000/api/filmes,42580,0,0
+1764709335473,42461,GET - Filmes,200,OK,Thread Group 1-272,text,true,,540,158,391,391,http://localhost:3000/api/filmes,42461,0,0
+1764709335593,42341,GET - Filmes,200,OK,Thread Group 1-273,text,true,,540,158,391,391,http://localhost:3000/api/filmes,42341,0,1
+1764709335713,42221,GET - Filmes,200,OK,Thread Group 1-274,text,true,,540,158,391,391,http://localhost:3000/api/filmes,42221,0,0
+1764709335833,42101,GET - Filmes,200,OK,Thread Group 1-275,text,true,,540,158,391,391,http://localhost:3000/api/filmes,42101,0,1
+1764709335954,41981,GET - Filmes,200,OK,Thread Group 1-276,text,true,,540,158,391,391,http://localhost:3000/api/filmes,41981,0,0
+1764709336074,41861,GET - Filmes,200,OK,Thread Group 1-277,text,true,,540,158,391,391,http://localhost:3000/api/filmes,41861,0,0
+1764709336314,41621,GET - Filmes,200,OK,Thread Group 1-279,text,true,,540,158,391,391,http://localhost:3000/api/filmes,41621,0,0
+1764709336434,41501,GET - Filmes,200,OK,Thread Group 1-280,text,true,,540,158,391,391,http://localhost:3000/api/filmes,41501,0,0
+1764709336555,41381,GET - Filmes,200,OK,Thread Group 1-281,text,true,,540,158,391,391,http://localhost:3000/api/filmes,41381,0,0
+1764709336194,41742,GET - Filmes,200,OK,Thread Group 1-278,text,true,,540,158,391,391,http://localhost:3000/api/filmes,41742,0,0
+1764709336674,41262,GET - Filmes,200,OK,Thread Group 1-282,text,true,,540,158,391,391,http://localhost:3000/api/filmes,41262,0,0
+1764709336793,41144,GET - Filmes,200,OK,Thread Group 1-283,text,true,,540,158,391,391,http://localhost:3000/api/filmes,41144,0,1
+1764709336913,41024,GET - Filmes,200,OK,Thread Group 1-284,text,true,,540,158,391,391,http://localhost:3000/api/filmes,41024,0,1
+1764709337034,40903,GET - Filmes,200,OK,Thread Group 1-285,text,true,,540,158,391,391,http://localhost:3000/api/filmes,40903,0,0
+1764709337154,40783,GET - Filmes,200,OK,Thread Group 1-286,text,true,,540,158,391,391,http://localhost:3000/api/filmes,40783,0,0
+1764709337273,40665,GET - Filmes,200,OK,Thread Group 1-287,text,true,,540,158,391,391,http://localhost:3000/api/filmes,40665,0,1
+1764709337394,40544,GET - Filmes,200,OK,Thread Group 1-288,text,true,,540,158,391,391,http://localhost:3000/api/filmes,40544,0,0
+1764709337514,40424,GET - Filmes,200,OK,Thread Group 1-289,text,true,,540,158,391,391,http://localhost:3000/api/filmes,40424,0,1
+1764709337635,40303,GET - Filmes,200,OK,Thread Group 1-290,text,true,,540,158,391,391,http://localhost:3000/api/filmes,40303,0,0
+1764709337754,40185,GET - Filmes,200,OK,Thread Group 1-291,text,true,,540,158,391,391,http://localhost:3000/api/filmes,40185,0,0
+1764709337874,40065,GET - Filmes,200,OK,Thread Group 1-292,text,true,,540,158,391,391,http://localhost:3000/api/filmes,40065,0,0
+1764709337994,39945,GET - Filmes,200,OK,Thread Group 1-293,text,true,,540,158,391,391,http://localhost:3000/api/filmes,39945,0,0
+1764709338114,39825,GET - Filmes,200,OK,Thread Group 1-294,text,true,,540,158,391,391,http://localhost:3000/api/filmes,39825,0,0
+1764709338233,39706,GET - Filmes,200,OK,Thread Group 1-295,text,true,,540,158,391,391,http://localhost:3000/api/filmes,39706,0,1
+1764709338354,39586,GET - Filmes,200,OK,Thread Group 1-296,text,true,,540,158,391,391,http://localhost:3000/api/filmes,39586,0,0
+1764709338473,39467,GET - Filmes,200,OK,Thread Group 1-297,text,true,,540,158,391,391,http://localhost:3000/api/filmes,39467,0,1
+1764709338593,39347,GET - Filmes,200,OK,Thread Group 1-298,text,true,,540,158,391,391,http://localhost:3000/api/filmes,39347,0,1
+1764709338713,39227,GET - Filmes,200,OK,Thread Group 1-299,text,true,,540,158,391,391,http://localhost:3000/api/filmes,39227,0,1
+1764709338833,39107,GET - Filmes,200,OK,Thread Group 1-300,text,true,,540,158,391,391,http://localhost:3000/api/filmes,39107,0,1
+1764709338954,38987,GET - Filmes,200,OK,Thread Group 1-301,text,true,,540,158,391,391,http://localhost:3000/api/filmes,38987,0,0
+1764709339074,38867,GET - Filmes,200,OK,Thread Group 1-302,text,true,,540,158,391,391,http://localhost:3000/api/filmes,38867,0,0
+1764709339194,38747,GET - Filmes,200,OK,Thread Group 1-303,text,true,,540,158,391,391,http://localhost:3000/api/filmes,38747,0,0
+1764709339314,38627,GET - Filmes,200,OK,Thread Group 1-304,text,true,,540,158,391,391,http://localhost:3000/api/filmes,38627,0,0
+1764709339434,38507,GET - Filmes,200,OK,Thread Group 1-305,text,true,,540,158,391,391,http://localhost:3000/api/filmes,38507,0,1
+1764709339555,38387,GET - Filmes,200,OK,Thread Group 1-306,text,true,,540,158,391,391,http://localhost:3000/api/filmes,38387,0,0
+1764709339674,38268,GET - Filmes,200,OK,Thread Group 1-307,text,true,,540,158,391,391,http://localhost:3000/api/filmes,38268,0,0
+1764709339794,38148,GET - Filmes,200,OK,Thread Group 1-308,text,true,,540,158,391,391,http://localhost:3000/api/filmes,38148,0,0
+1764709339914,38028,GET - Filmes,200,OK,Thread Group 1-309,text,true,,540,158,391,391,http://localhost:3000/api/filmes,38028,0,0
+1764709340034,37908,GET - Filmes,200,OK,Thread Group 1-310,text,true,,540,158,391,391,http://localhost:3000/api/filmes,37908,0,0
+1764709340154,37789,GET - Filmes,200,OK,Thread Group 1-311,text,true,,540,158,391,391,http://localhost:3000/api/filmes,37789,0,0
+1764709340275,37668,GET - Filmes,200,OK,Thread Group 1-312,text,true,,540,158,391,391,http://localhost:3000/api/filmes,37668,0,1
+1764709340394,37549,GET - Filmes,200,OK,Thread Group 1-313,text,true,,540,158,391,391,http://localhost:3000/api/filmes,37549,0,0
+1764709340514,37429,GET - Filmes,200,OK,Thread Group 1-314,text,true,,540,158,391,391,http://localhost:3000/api/filmes,37429,0,0
+1764709340634,37309,GET - Filmes,200,OK,Thread Group 1-315,text,true,,540,158,391,391,http://localhost:3000/api/filmes,37309,0,1
+1764709340753,37191,GET - Filmes,200,OK,Thread Group 1-316,text,true,,540,158,391,391,http://localhost:3000/api/filmes,37191,0,1
+1764709340874,37070,GET - Filmes,200,OK,Thread Group 1-317,text,true,,540,158,391,391,http://localhost:3000/api/filmes,37070,0,0
+1764709340993,36951,GET - Filmes,200,OK,Thread Group 1-318,text,true,,540,158,391,391,http://localhost:3000/api/filmes,36951,0,1
+1764709341114,36830,GET - Filmes,200,OK,Thread Group 1-319,text,true,,540,158,391,391,http://localhost:3000/api/filmes,36830,0,0
+1764709341234,36710,GET - Filmes,200,OK,Thread Group 1-320,text,true,,540,158,391,391,http://localhost:3000/api/filmes,36710,0,0
+1764709341354,36590,GET - Filmes,200,OK,Thread Group 1-321,text,true,,540,158,391,391,http://localhost:3000/api/filmes,36590,0,0
+1764709341475,36470,GET - Filmes,200,OK,Thread Group 1-322,text,true,,540,158,391,391,http://localhost:3000/api/filmes,36470,0,0
+1764709341594,36351,GET - Filmes,200,OK,Thread Group 1-323,text,true,,540,158,391,391,http://localhost:3000/api/filmes,36351,0,1
+1764709341713,36232,GET - Filmes,200,OK,Thread Group 1-324,text,true,,540,158,391,391,http://localhost:3000/api/filmes,36232,0,1
+1764709341834,36111,GET - Filmes,200,OK,Thread Group 1-325,text,true,,540,158,391,391,http://localhost:3000/api/filmes,36111,0,0
+1764709342075,35871,GET - Filmes,200,OK,Thread Group 1-327,text,true,,540,158,391,391,http://localhost:3000/api/filmes,35870,0,0
+1764709341954,35992,GET - Filmes,200,OK,Thread Group 1-326,text,true,,540,158,391,391,http://localhost:3000/api/filmes,35992,0,0
+1764709342193,35753,GET - Filmes,200,OK,Thread Group 1-328,text,true,,540,158,391,391,http://localhost:3000/api/filmes,35753,0,1
+1764709342314,35632,GET - Filmes,200,OK,Thread Group 1-329,text,true,,540,158,391,391,http://localhost:3000/api/filmes,35632,0,0
+1764709342433,35514,GET - Filmes,200,OK,Thread Group 1-330,text,true,,540,158,391,391,http://localhost:3000/api/filmes,35514,0,0
+1764709342553,35394,GET - Filmes,200,OK,Thread Group 1-331,text,true,,540,158,391,391,http://localhost:3000/api/filmes,35394,0,0
+1764709342674,35273,GET - Filmes,200,OK,Thread Group 1-332,text,true,,540,158,391,391,http://localhost:3000/api/filmes,35273,0,1
+1764709342794,35153,GET - Filmes,200,OK,Thread Group 1-333,text,true,,540,158,391,391,http://localhost:3000/api/filmes,35153,0,1
+1764709342913,35034,GET - Filmes,200,OK,Thread Group 1-334,text,true,,540,158,391,391,http://localhost:3000/api/filmes,35034,0,1
+1764709343034,34914,GET - Filmes,200,OK,Thread Group 1-335,text,true,,540,158,391,391,http://localhost:3000/api/filmes,34914,0,0
+1764709343154,34794,GET - Filmes,200,OK,Thread Group 1-336,text,true,,540,158,391,391,http://localhost:3000/api/filmes,34794,0,0
+1764709343274,34674,GET - Filmes,200,OK,Thread Group 1-337,text,true,,540,158,391,391,http://localhost:3000/api/filmes,34674,0,0
+1764709343394,34554,GET - Filmes,200,OK,Thread Group 1-338,text,true,,540,158,391,391,http://localhost:3000/api/filmes,34554,0,0
+1764709343514,34434,GET - Filmes,200,OK,Thread Group 1-339,text,true,,540,158,391,391,http://localhost:3000/api/filmes,34434,0,0
+1764709343633,34315,GET - Filmes,200,OK,Thread Group 1-340,text,true,,540,158,391,391,http://localhost:3000/api/filmes,34315,0,0
+1764709343753,34196,GET - Filmes,200,OK,Thread Group 1-341,text,true,,540,158,391,391,http://localhost:3000/api/filmes,34196,0,0
+1764709343874,34075,GET - Filmes,200,OK,Thread Group 1-342,text,true,,540,158,391,391,http://localhost:3000/api/filmes,34075,0,0
+1764709343995,33954,GET - Filmes,200,OK,Thread Group 1-343,text,true,,540,158,391,391,http://localhost:3000/api/filmes,33954,0,0
+1764709344114,33835,GET - Filmes,200,OK,Thread Group 1-344,text,true,,540,158,391,391,http://localhost:3000/api/filmes,33835,0,0
+1764709344234,33715,GET - Filmes,200,OK,Thread Group 1-345,text,true,,540,158,391,391,http://localhost:3000/api/filmes,33715,0,0
+1764709344354,33596,GET - Filmes,200,OK,Thread Group 1-346,text,true,,540,158,391,391,http://localhost:3000/api/filmes,33596,0,0
+1764709344473,33477,GET - Filmes,200,OK,Thread Group 1-347,text,true,,540,158,391,391,http://localhost:3000/api/filmes,33477,0,1
+1764709344593,33357,GET - Filmes,200,OK,Thread Group 1-348,text,true,,540,158,391,391,http://localhost:3000/api/filmes,33357,0,1
+1764709344713,33237,GET - Filmes,200,OK,Thread Group 1-349,text,true,,540,158,391,391,http://localhost:3000/api/filmes,33237,0,1
+1764709344833,33117,GET - Filmes,200,OK,Thread Group 1-350,text,true,,540,158,391,391,http://localhost:3000/api/filmes,33117,0,1
+1764709344953,32998,GET - Filmes,200,OK,Thread Group 1-351,text,true,,540,158,391,391,http://localhost:3000/api/filmes,32998,0,1
+1764709345075,32876,GET - Filmes,200,OK,Thread Group 1-352,text,true,,540,158,391,391,http://localhost:3000/api/filmes,32876,0,0
+1764709345194,32757,GET - Filmes,200,OK,Thread Group 1-353,text,true,,540,158,391,391,http://localhost:3000/api/filmes,32757,0,1
+1764709345314,32637,GET - Filmes,200,OK,Thread Group 1-354,text,true,,540,158,391,391,http://localhost:3000/api/filmes,32637,0,0
+1764709345434,32518,GET - Filmes,200,OK,Thread Group 1-355,text,true,,540,158,391,391,http://localhost:3000/api/filmes,32518,0,0
+1764709345554,32398,GET - Filmes,200,OK,Thread Group 1-356,text,true,,540,158,391,391,http://localhost:3000/api/filmes,32398,0,0
+1764709345674,32278,GET - Filmes,200,OK,Thread Group 1-357,text,true,,540,158,391,391,http://localhost:3000/api/filmes,32278,0,0
+1764709345794,32158,GET - Filmes,200,OK,Thread Group 1-358,text,true,,540,158,391,391,http://localhost:3000/api/filmes,32158,0,0
+1764709345913,32039,GET - Filmes,200,OK,Thread Group 1-359,text,true,,540,158,391,391,http://localhost:3000/api/filmes,32039,0,1
+1764709346034,31918,GET - Filmes,200,OK,Thread Group 1-360,text,true,,540,158,391,391,http://localhost:3000/api/filmes,31918,0,0
+1764709346153,31800,GET - Filmes,200,OK,Thread Group 1-361,text,true,,540,158,391,391,http://localhost:3000/api/filmes,31800,0,1
+1764709346275,31678,GET - Filmes,200,OK,Thread Group 1-362,text,true,,540,158,391,391,http://localhost:3000/api/filmes,31678,0,0
+1764709346394,31559,GET - Filmes,200,OK,Thread Group 1-363,text,true,,540,158,391,391,http://localhost:3000/api/filmes,31559,0,0
+1764709346513,31440,GET - Filmes,200,OK,Thread Group 1-364,text,true,,540,158,391,391,http://localhost:3000/api/filmes,31440,0,1
+1764709346633,31320,GET - Filmes,200,OK,Thread Group 1-365,text,true,,540,158,391,391,http://localhost:3000/api/filmes,31320,0,1
+1764709346753,31201,GET - Filmes,200,OK,Thread Group 1-366,text,true,,540,158,391,391,http://localhost:3000/api/filmes,31201,0,0
+1764709346873,31081,GET - Filmes,200,OK,Thread Group 1-367,text,true,,540,158,391,391,http://localhost:3000/api/filmes,31081,0,0
+1764709346994,30960,GET - Filmes,200,OK,Thread Group 1-368,text,true,,540,158,391,391,http://localhost:3000/api/filmes,30960,0,0
+1764709347114,30840,GET - Filmes,200,OK,Thread Group 1-369,text,true,,540,158,391,391,http://localhost:3000/api/filmes,30840,0,0
+1764709347234,30720,GET - Filmes,200,OK,Thread Group 1-370,text,true,,540,158,391,391,http://localhost:3000/api/filmes,30720,0,0
+1764709347354,30601,GET - Filmes,200,OK,Thread Group 1-371,text,true,,540,158,391,391,http://localhost:3000/api/filmes,30601,0,1
+1764709347473,30482,GET - Filmes,200,OK,Thread Group 1-372,text,true,,540,158,391,391,http://localhost:3000/api/filmes,30482,0,0
+1764709347594,30361,GET - Filmes,200,OK,Thread Group 1-373,text,true,,540,158,391,391,http://localhost:3000/api/filmes,30361,0,0
+1764709347713,30242,GET - Filmes,200,OK,Thread Group 1-374,text,true,,540,158,391,391,http://localhost:3000/api/filmes,30242,0,0
+1764709347833,30122,GET - Filmes,200,OK,Thread Group 1-375,text,true,,540,158,391,391,http://localhost:3000/api/filmes,30122,0,0
+1764709347953,30003,GET - Filmes,200,OK,Thread Group 1-376,text,true,,540,158,391,391,http://localhost:3000/api/filmes,30003,0,0
+1764709348073,29883,GET - Filmes,200,OK,Thread Group 1-377,text,true,,540,158,391,391,http://localhost:3000/api/filmes,29883,0,1
+1764709348194,29762,GET - Filmes,200,OK,Thread Group 1-378,text,true,,540,158,391,391,http://localhost:3000/api/filmes,29762,0,0
+1764709348313,29643,GET - Filmes,200,OK,Thread Group 1-379,text,true,,540,158,391,391,http://localhost:3000/api/filmes,29643,0,1
+1764709348434,29522,GET - Filmes,200,OK,Thread Group 1-380,text,true,,540,158,391,391,http://localhost:3000/api/filmes,29522,0,12
+1764709348554,29403,GET - Filmes,200,OK,Thread Group 1-381,text,true,,540,158,391,391,http://localhost:3000/api/filmes,29403,0,0
+1764709348674,29283,GET - Filmes,200,OK,Thread Group 1-382,text,true,,540,158,391,391,http://localhost:3000/api/filmes,29283,0,0
+1764709348794,29163,GET - Filmes,200,OK,Thread Group 1-383,text,true,,540,158,391,391,http://localhost:3000/api/filmes,29163,0,0
+1764709348913,29044,GET - Filmes,200,OK,Thread Group 1-384,text,true,,540,158,391,391,http://localhost:3000/api/filmes,29044,0,0
+1764709349033,28924,GET - Filmes,200,OK,Thread Group 1-385,text,true,,540,158,391,391,http://localhost:3000/api/filmes,28924,0,0
+1764709349154,28804,GET - Filmes,200,OK,Thread Group 1-386,text,true,,540,158,391,391,http://localhost:3000/api/filmes,28804,0,0
+1764709349273,28685,GET - Filmes,200,OK,Thread Group 1-387,text,true,,540,158,391,391,http://localhost:3000/api/filmes,28685,0,1
+1764709349394,28564,GET - Filmes,200,OK,Thread Group 1-388,text,true,,540,158,391,391,http://localhost:3000/api/filmes,28564,0,0
+1764709349515,28443,GET - Filmes,200,OK,Thread Group 1-389,text,true,,540,158,391,391,http://localhost:3000/api/filmes,28443,0,0
+1764709349634,28325,GET - Filmes,200,OK,Thread Group 1-390,text,true,,540,158,391,391,http://localhost:3000/api/filmes,28325,0,1
+1764709349754,28205,GET - Filmes,200,OK,Thread Group 1-391,text,true,,540,158,391,391,http://localhost:3000/api/filmes,28205,0,0
+1764709349874,28085,GET - Filmes,200,OK,Thread Group 1-392,text,true,,540,158,391,391,http://localhost:3000/api/filmes,28085,0,0
+1764709349994,27965,GET - Filmes,200,OK,Thread Group 1-393,text,true,,540,158,391,391,http://localhost:3000/api/filmes,27965,0,0
+1764709350114,27845,GET - Filmes,200,OK,Thread Group 1-394,text,true,,540,158,391,391,http://localhost:3000/api/filmes,27845,0,0
+1764709350234,27725,GET - Filmes,200,OK,Thread Group 1-395,text,true,,540,158,391,391,http://localhost:3000/api/filmes,27725,0,1
+1764709350353,27607,GET - Filmes,200,OK,Thread Group 1-396,text,true,,540,158,391,391,http://localhost:3000/api/filmes,27607,0,1
+1764709350474,27486,GET - Filmes,200,OK,Thread Group 1-397,text,true,,540,158,391,391,http://localhost:3000/api/filmes,27486,0,0
+1764709350594,27366,GET - Filmes,200,OK,Thread Group 1-398,text,true,,540,158,391,391,http://localhost:3000/api/filmes,27366,0,0
+1764709350714,27246,GET - Filmes,200,OK,Thread Group 1-399,text,true,,540,158,391,391,http://localhost:3000/api/filmes,27246,0,1
+1764709350834,27126,GET - Filmes,200,OK,Thread Group 1-400,text,true,,540,158,391,391,http://localhost:3000/api/filmes,27126,0,0
+1764709350954,27007,GET - Filmes,200,OK,Thread Group 1-401,text,true,,540,158,391,391,http://localhost:3000/api/filmes,27007,0,0
+1764709351073,26888,GET - Filmes,200,OK,Thread Group 1-402,text,true,,540,158,391,391,http://localhost:3000/api/filmes,26888,0,1
+1764709351193,26768,GET - Filmes,200,OK,Thread Group 1-403,text,true,,540,158,391,391,http://localhost:3000/api/filmes,26768,0,0
+1764709351313,26648,GET - Filmes,200,OK,Thread Group 1-404,text,true,,540,158,391,391,http://localhost:3000/api/filmes,26648,0,0
+1764709351433,26528,GET - Filmes,200,OK,Thread Group 1-405,text,true,,540,158,391,391,http://localhost:3000/api/filmes,26528,0,1
+1764709351553,26408,GET - Filmes,200,OK,Thread Group 1-406,text,true,,540,158,391,391,http://localhost:3000/api/filmes,26408,0,1
+1764709351674,26288,GET - Filmes,200,OK,Thread Group 1-407,text,true,,540,158,391,391,http://localhost:3000/api/filmes,26288,0,0
+1764709351794,26168,GET - Filmes,200,OK,Thread Group 1-408,text,true,,540,158,391,391,http://localhost:3000/api/filmes,26168,0,0
+1764709351915,26047,GET - Filmes,200,OK,Thread Group 1-409,text,true,,540,158,391,391,http://localhost:3000/api/filmes,26047,0,0
+1764709352034,25928,GET - Filmes,200,OK,Thread Group 1-410,text,true,,540,158,391,391,http://localhost:3000/api/filmes,25928,0,1
+1764709352153,25810,GET - Filmes,200,OK,Thread Group 1-411,text,true,,540,158,391,391,http://localhost:3000/api/filmes,25810,0,1
+1764709352273,25690,GET - Filmes,200,OK,Thread Group 1-412,text,true,,540,158,391,391,http://localhost:3000/api/filmes,25690,0,1
+1764709352394,25569,GET - Filmes,200,OK,Thread Group 1-413,text,true,,540,158,391,391,http://localhost:3000/api/filmes,25569,0,0
+1764709352514,25449,GET - Filmes,200,OK,Thread Group 1-414,text,true,,540,158,391,391,http://localhost:3000/api/filmes,25449,0,0
+1764709352633,25330,GET - Filmes,200,OK,Thread Group 1-415,text,true,,540,158,391,391,http://localhost:3000/api/filmes,25330,0,1
+1764709352754,25210,GET - Filmes,200,OK,Thread Group 1-416,text,true,,540,158,391,391,http://localhost:3000/api/filmes,25210,0,0
+1764709352874,25090,GET - Filmes,200,OK,Thread Group 1-417,text,true,,540,158,391,391,http://localhost:3000/api/filmes,25090,0,0
+1764709352993,24971,GET - Filmes,200,OK,Thread Group 1-418,text,true,,540,158,391,391,http://localhost:3000/api/filmes,24971,0,1
+1764709353114,24850,GET - Filmes,200,OK,Thread Group 1-419,text,true,,540,158,391,391,http://localhost:3000/api/filmes,24850,0,0
+1764709353234,24730,GET - Filmes,200,OK,Thread Group 1-420,text,true,,540,158,391,391,http://localhost:3000/api/filmes,24730,0,0
+1764709353353,24612,GET - Filmes,200,OK,Thread Group 1-421,text,true,,540,158,391,391,http://localhost:3000/api/filmes,24612,0,0
+1764709353473,24492,GET - Filmes,200,OK,Thread Group 1-422,text,true,,540,158,391,391,http://localhost:3000/api/filmes,24492,0,0
+1764709353593,24372,GET - Filmes,200,OK,Thread Group 1-423,text,true,,540,158,391,391,http://localhost:3000/api/filmes,24372,0,0
+1764709353714,24251,GET - Filmes,200,OK,Thread Group 1-424,text,true,,540,158,391,391,http://localhost:3000/api/filmes,24251,0,0
+1764709353833,24132,GET - Filmes,200,OK,Thread Group 1-425,text,true,,540,158,391,391,http://localhost:3000/api/filmes,24132,0,1
+1764709353953,24013,GET - Filmes,200,OK,Thread Group 1-426,text,true,,540,158,391,391,http://localhost:3000/api/filmes,24013,0,1
+1764709354074,23892,GET - Filmes,200,OK,Thread Group 1-427,text,true,,540,158,391,391,http://localhost:3000/api/filmes,23892,0,0
+1764709354194,23772,GET - Filmes,200,OK,Thread Group 1-428,text,true,,540,158,391,391,http://localhost:3000/api/filmes,23772,0,0
+1764709354314,23652,GET - Filmes,200,OK,Thread Group 1-429,text,true,,540,158,391,391,http://localhost:3000/api/filmes,23652,0,0
+1764709354435,23531,GET - Filmes,200,OK,Thread Group 1-430,text,true,,540,158,391,391,http://localhost:3000/api/filmes,23531,0,0
+1764709354555,23412,GET - Filmes,200,OK,Thread Group 1-431,text,true,,540,158,391,391,http://localhost:3000/api/filmes,23412,0,0
+1764709354674,23293,GET - Filmes,200,OK,Thread Group 1-432,text,true,,540,158,391,391,http://localhost:3000/api/filmes,23293,0,0
+1764709354794,23173,GET - Filmes,200,OK,Thread Group 1-433,text,true,,540,158,391,391,http://localhost:3000/api/filmes,23173,0,0
+1764709354913,23054,GET - Filmes,200,OK,Thread Group 1-434,text,true,,540,158,391,391,http://localhost:3000/api/filmes,23054,0,1
+1764709355034,22933,GET - Filmes,200,OK,Thread Group 1-435,text,true,,540,158,391,391,http://localhost:3000/api/filmes,22933,0,0
+1764709355153,22814,GET - Filmes,200,OK,Thread Group 1-436,text,true,,540,158,391,391,http://localhost:3000/api/filmes,22814,0,1
+1764709355274,22695,GET - Filmes,200,OK,Thread Group 1-437,text,true,,540,158,391,391,http://localhost:3000/api/filmes,22695,0,1
+1764709355394,22575,GET - Filmes,200,OK,Thread Group 1-438,text,true,,540,158,391,391,http://localhost:3000/api/filmes,22575,0,1
+1764709355514,22455,GET - Filmes,200,OK,Thread Group 1-439,text,true,,540,158,391,391,http://localhost:3000/api/filmes,22455,0,1
+1764709355634,22335,GET - Filmes,200,OK,Thread Group 1-440,text,true,,540,158,391,391,http://localhost:3000/api/filmes,22335,0,1
+1764709355755,22214,GET - Filmes,200,OK,Thread Group 1-441,text,true,,540,158,391,391,http://localhost:3000/api/filmes,22214,0,1
+1764709355874,22096,GET - Filmes,200,OK,Thread Group 1-442,text,true,,540,158,391,391,http://localhost:3000/api/filmes,22096,0,1
+1764709355995,21975,GET - Filmes,200,OK,Thread Group 1-443,text,true,,540,158,391,391,http://localhost:3000/api/filmes,21975,0,0
+1764709356115,21855,GET - Filmes,200,OK,Thread Group 1-444,text,true,,540,158,391,391,http://localhost:3000/api/filmes,21855,0,0
+1764709356234,21736,GET - Filmes,200,OK,Thread Group 1-445,text,true,,540,158,391,391,http://localhost:3000/api/filmes,21736,0,0
+1764709356354,21616,GET - Filmes,200,OK,Thread Group 1-446,text,true,,540,158,391,391,http://localhost:3000/api/filmes,21616,0,0
+1764709356474,21497,GET - Filmes,200,OK,Thread Group 1-447,text,true,,540,158,391,391,http://localhost:3000/api/filmes,21497,0,0
+1764709356594,21377,GET - Filmes,200,OK,Thread Group 1-448,text,true,,540,158,391,391,http://localhost:3000/api/filmes,21377,0,0
+1764709356714,21257,GET - Filmes,200,OK,Thread Group 1-449,text,true,,540,158,391,391,http://localhost:3000/api/filmes,21257,0,0
+1764709356834,21137,GET - Filmes,200,OK,Thread Group 1-450,text,true,,540,158,391,391,http://localhost:3000/api/filmes,21137,0,1
+1764709356955,21016,GET - Filmes,200,OK,Thread Group 1-451,text,true,,540,158,391,391,http://localhost:3000/api/filmes,21016,0,0
+1764709357075,20897,GET - Filmes,200,OK,Thread Group 1-452,text,true,,540,158,391,391,http://localhost:3000/api/filmes,20897,0,1
+1764709357194,20778,GET - Filmes,200,OK,Thread Group 1-453,text,true,,540,158,391,391,http://localhost:3000/api/filmes,20778,0,1
+1764709357314,20658,GET - Filmes,200,OK,Thread Group 1-454,text,true,,540,158,391,391,http://localhost:3000/api/filmes,20658,0,1
+1764709357434,20538,GET - Filmes,200,OK,Thread Group 1-455,text,true,,540,158,391,391,http://localhost:3000/api/filmes,20538,0,0
+1764709357555,20417,GET - Filmes,200,OK,Thread Group 1-456,text,true,,540,158,391,391,http://localhost:3000/api/filmes,20417,0,0
+1764709357675,20298,GET - Filmes,200,OK,Thread Group 1-457,text,true,,540,158,391,391,http://localhost:3000/api/filmes,20297,0,0
+1764709357794,20179,GET - Filmes,200,OK,Thread Group 1-458,text,true,,540,158,391,391,http://localhost:3000/api/filmes,20179,0,1
+1764709357914,20059,GET - Filmes,200,OK,Thread Group 1-459,text,true,,540,158,391,391,http://localhost:3000/api/filmes,20059,0,0
+1764709358034,19939,GET - Filmes,200,OK,Thread Group 1-460,text,true,,540,158,391,391,http://localhost:3000/api/filmes,19939,0,0
+1764709358155,19818,GET - Filmes,200,OK,Thread Group 1-461,text,true,,540,158,391,391,http://localhost:3000/api/filmes,19818,0,0
+1764709358274,19699,GET - Filmes,200,OK,Thread Group 1-462,text,true,,540,158,391,391,http://localhost:3000/api/filmes,19699,0,0
+1764709358395,19579,GET - Filmes,200,OK,Thread Group 1-463,text,true,,540,158,391,391,http://localhost:3000/api/filmes,19579,0,0
+1764709358515,19459,GET - Filmes,200,OK,Thread Group 1-464,text,true,,540,158,391,391,http://localhost:3000/api/filmes,19459,0,0
+1764709358634,19340,GET - Filmes,200,OK,Thread Group 1-465,text,true,,540,158,391,391,http://localhost:3000/api/filmes,19340,0,1
+1764709358754,19220,GET - Filmes,200,OK,Thread Group 1-466,text,true,,540,158,391,391,http://localhost:3000/api/filmes,19220,0,1
+1764709358874,19100,GET - Filmes,200,OK,Thread Group 1-467,text,true,,540,158,391,391,http://localhost:3000/api/filmes,19100,0,1
+1764709358995,18980,GET - Filmes,200,OK,Thread Group 1-468,text,true,,540,158,391,391,http://localhost:3000/api/filmes,18980,0,0
+1764709359115,18860,GET - Filmes,200,OK,Thread Group 1-469,text,true,,540,158,391,391,http://localhost:3000/api/filmes,18860,0,1
+1764709359235,18740,GET - Filmes,200,OK,Thread Group 1-470,text,true,,540,158,391,391,http://localhost:3000/api/filmes,18740,0,0
+1764709359355,18620,GET - Filmes,200,OK,Thread Group 1-471,text,true,,540,158,391,391,http://localhost:3000/api/filmes,18620,0,0
+1764709359474,18501,GET - Filmes,200,OK,Thread Group 1-472,text,true,,540,158,391,391,http://localhost:3000/api/filmes,18501,0,1
+1764709359595,18380,GET - Filmes,200,OK,Thread Group 1-473,text,true,,540,158,391,391,http://localhost:3000/api/filmes,18380,0,0
+1764709359714,18262,GET - Filmes,200,OK,Thread Group 1-474,text,true,,540,158,391,391,http://localhost:3000/api/filmes,18262,0,1
+1764709359834,18142,GET - Filmes,200,OK,Thread Group 1-475,text,true,,540,158,391,391,http://localhost:3000/api/filmes,18142,0,1
+1764709359954,18022,GET - Filmes,200,OK,Thread Group 1-476,text,true,,540,158,391,391,http://localhost:3000/api/filmes,18022,0,1
+1764709360074,17902,GET - Filmes,200,OK,Thread Group 1-477,text,true,,540,158,391,391,http://localhost:3000/api/filmes,17902,0,0
+1764709360196,17780,GET - Filmes,200,OK,Thread Group 1-478,text,true,,540,158,391,391,http://localhost:3000/api/filmes,17780,0,0
+1764709360314,17661,GET - Filmes,200,OK,Thread Group 1-479,text,true,,540,158,391,391,http://localhost:3000/api/filmes,17661,0,1
+1764709360433,17543,GET - Filmes,200,OK,Thread Group 1-480,text,true,,540,158,391,391,http://localhost:3000/api/filmes,17543,0,1
+1764709360553,17423,GET - Filmes,200,OK,Thread Group 1-481,text,true,,540,158,391,391,http://localhost:3000/api/filmes,17423,0,1
+1764709360673,17303,GET - Filmes,200,OK,Thread Group 1-482,text,true,,540,158,391,391,http://localhost:3000/api/filmes,17303,0,1
+1764709360793,17183,GET - Filmes,200,OK,Thread Group 1-483,text,true,,540,158,391,391,http://localhost:3000/api/filmes,17183,0,1
+1764709360913,17063,GET - Filmes,200,OK,Thread Group 1-484,text,true,,540,158,391,391,http://localhost:3000/api/filmes,17063,0,1
+1764709361033,16943,GET - Filmes,200,OK,Thread Group 1-485,text,true,,540,158,391,391,http://localhost:3000/api/filmes,16943,0,1
+1764709361153,16824,GET - Filmes,200,OK,Thread Group 1-486,text,true,,540,158,391,391,http://localhost:3000/api/filmes,16824,0,1
+1764709361273,16704,GET - Filmes,200,OK,Thread Group 1-487,text,true,,540,158,391,391,http://localhost:3000/api/filmes,16704,0,1
+1764709361394,16583,GET - Filmes,200,OK,Thread Group 1-488,text,true,,540,158,391,391,http://localhost:3000/api/filmes,16583,0,1
+1764709361514,16463,GET - Filmes,200,OK,Thread Group 1-489,text,true,,540,158,391,391,http://localhost:3000/api/filmes,16463,0,0
+1764709361633,16344,GET - Filmes,200,OK,Thread Group 1-490,text,true,,540,158,391,391,http://localhost:3000/api/filmes,16344,0,1
+1764709361753,16224,GET - Filmes,200,OK,Thread Group 1-491,text,true,,540,158,391,391,http://localhost:3000/api/filmes,16224,0,1
+1764709361874,16104,GET - Filmes,200,OK,Thread Group 1-492,text,true,,540,158,391,391,http://localhost:3000/api/filmes,16104,0,0
+1764709361994,15984,GET - Filmes,200,OK,Thread Group 1-493,text,true,,540,158,391,391,http://localhost:3000/api/filmes,15984,0,0
+1764709362114,15864,GET - Filmes,200,OK,Thread Group 1-494,text,true,,540,158,391,391,http://localhost:3000/api/filmes,15864,0,0
+1764709362234,15744,GET - Filmes,200,OK,Thread Group 1-495,text,true,,540,158,391,391,http://localhost:3000/api/filmes,15744,0,0
+1764709362354,15624,GET - Filmes,200,OK,Thread Group 1-496,text,true,,540,158,391,391,http://localhost:3000/api/filmes,15624,0,0
+1764709362474,15504,GET - Filmes,200,OK,Thread Group 1-497,text,true,,540,158,391,391,http://localhost:3000/api/filmes,15504,0,0
+1764709362594,15385,GET - Filmes,200,OK,Thread Group 1-498,text,true,,540,158,391,391,http://localhost:3000/api/filmes,15385,0,0
+1764709362715,15264,GET - Filmes,200,OK,Thread Group 1-499,text,true,,540,158,391,391,http://localhost:3000/api/filmes,15264,0,0
+1764709362833,15146,GET - Filmes,200,OK,Thread Group 1-500,text,true,,540,158,391,391,http://localhost:3000/api/filmes,15146,0,1
+1764709377900,763,POST - Comprar,200,OK,Thread Group 1-126,text,true,,313,200,391,391,http://localhost:3000/api/comprar,763,0,0
+1764709377900,1428,POST - Comprar,200,OK,Thread Group 1-127,text,true,,312,200,390,390,http://localhost:3000/api/comprar,1428,0,0
+1764709377901,2138,POST - Comprar,200,OK,Thread Group 1-128,text,true,,313,200,389,389,http://localhost:3000/api/comprar,2138,0,0
+1764709377901,2836,POST - Comprar,200,OK,Thread Group 1-129,text,true,,312,200,388,388,http://localhost:3000/api/comprar,2836,0,0
+1764709377901,3503,POST - Comprar,200,OK,Thread Group 1-130,text,true,,313,200,387,387,http://localhost:3000/api/comprar,3503,0,0
+1764709377901,4290,POST - Comprar,200,OK,Thread Group 1-131,text,true,,313,200,386,386,http://localhost:3000/api/comprar,4290,0,0
+1764709377901,5013,POST - Comprar,200,OK,Thread Group 1-132,text,true,,312,200,385,385,http://localhost:3000/api/comprar,5013,0,0
+1764709377902,5809,POST - Comprar,200,OK,Thread Group 1-133,text,true,,312,200,384,384,http://localhost:3000/api/comprar,5809,0,0
+1764709377902,6511,POST - Comprar,200,OK,Thread Group 1-134,text,true,,312,200,383,383,http://localhost:3000/api/comprar,6511,0,0
+1764709377902,7169,POST - Comprar,200,OK,Thread Group 1-135,text,true,,312,200,382,382,http://localhost:3000/api/comprar,7169,0,0
+1764709377902,7821,POST - Comprar,200,OK,Thread Group 1-136,text,true,,313,200,381,381,http://localhost:3000/api/comprar,7821,0,0
+1764709377903,8470,POST - Comprar,200,OK,Thread Group 1-137,text,true,,313,200,380,380,http://localhost:3000/api/comprar,8470,0,0
+1764709377903,9119,POST - Comprar,200,OK,Thread Group 1-138,text,true,,312,200,379,379,http://localhost:3000/api/comprar,9119,0,0
+1764709377903,9770,POST - Comprar,200,OK,Thread Group 1-139,text,true,,313,200,378,378,http://localhost:3000/api/comprar,9770,0,0
+1764709377903,10555,POST - Comprar,200,OK,Thread Group 1-140,text,true,,313,200,377,377,http://localhost:3000/api/comprar,10555,0,0
+1764709377904,11321,POST - Comprar,200,OK,Thread Group 1-141,text,true,,313,200,376,376,http://localhost:3000/api/comprar,11321,0,0
+1764709377904,12069,POST - Comprar,200,OK,Thread Group 1-142,text,true,,313,200,375,375,http://localhost:3000/api/comprar,12069,0,0
+1764709377904,12779,POST - Comprar,200,OK,Thread Group 1-143,text,true,,313,200,374,374,http://localhost:3000/api/comprar,12779,0,0
+1764709377905,13497,POST - Comprar,200,OK,Thread Group 1-144,text,true,,313,200,373,373,http://localhost:3000/api/comprar,13497,0,0
+1764709377905,14248,POST - Comprar,200,OK,Thread Group 1-145,text,true,,313,200,372,372,http://localhost:3000/api/comprar,14248,0,0
+1764709377906,14981,POST - Comprar,200,OK,Thread Group 1-148,text,true,,313,200,371,371,http://localhost:3000/api/comprar,14981,0,0
+1764709377906,15810,POST - Comprar,200,OK,Thread Group 1-149,text,true,,313,200,370,370,http://localhost:3000/api/comprar,15810,0,0
+1764709377906,16533,POST - Comprar,200,OK,Thread Group 1-150,text,true,,312,200,369,369,http://localhost:3000/api/comprar,16532,0,0
+1764709377907,17238,POST - Comprar,200,OK,Thread Group 1-151,text,true,,313,200,368,368,http://localhost:3000/api/comprar,17238,0,0
+1764709377907,17920,POST - Comprar,200,OK,Thread Group 1-146,text,true,,313,200,367,367,http://localhost:3000/api/comprar,17920,0,0
+1764709377907,18605,POST - Comprar,200,OK,Thread Group 1-152,text,true,,312,200,366,366,http://localhost:3000/api/comprar,18605,0,0
+1764709377907,19285,POST - Comprar,200,OK,Thread Group 1-147,text,true,,312,200,365,365,http://localhost:3000/api/comprar,19285,0,0
+1764709377907,20117,POST - Comprar,200,OK,Thread Group 1-153,text,true,,313,200,364,364,http://localhost:3000/api/comprar,20117,0,0
+1764709377907,20921,POST - Comprar,200,OK,Thread Group 1-154,text,true,,313,200,363,363,http://localhost:3000/api/comprar,20921,0,0
+1764709377908,21698,POST - Comprar,200,OK,Thread Group 1-155,text,true,,313,200,362,362,http://localhost:3000/api/comprar,21698,0,0
+1764709377908,22481,POST - Comprar,200,OK,Thread Group 1-156,text,true,,313,200,361,361,http://localhost:3000/api/comprar,22481,0,0
+1764709377908,23263,POST - Comprar,200,OK,Thread Group 1-157,text,true,,313,200,360,360,http://localhost:3000/api/comprar,23263,0,0
+1764709377908,24068,POST - Comprar,200,OK,Thread Group 1-158,text,true,,313,200,359,359,http://localhost:3000/api/comprar,24068,0,0
+1764709377908,24861,POST - Comprar,200,OK,Thread Group 1-159,text,true,,313,200,358,358,http://localhost:3000/api/comprar,24861,0,0
+1764709377909,25597,POST - Comprar,200,OK,Thread Group 1-160,text,true,,313,200,357,357,http://localhost:3000/api/comprar,25597,0,0
+1764709377909,26345,POST - Comprar,200,OK,Thread Group 1-161,text,true,,312,200,356,356,http://localhost:3000/api/comprar,26345,0,0
+1764709377909,27081,POST - Comprar,200,OK,Thread Group 1-162,text,true,,312,200,355,355,http://localhost:3000/api/comprar,27081,0,0
+1764709377909,27808,POST - Comprar,200,OK,Thread Group 1-163,text,true,,312,200,354,354,http://localhost:3000/api/comprar,27808,0,0
+1764709377910,28548,POST - Comprar,200,OK,Thread Group 1-164,text,true,,312,200,353,353,http://localhost:3000/api/comprar,28548,0,0
+1764709377910,29290,POST - Comprar,200,OK,Thread Group 1-165,text,true,,312,200,352,352,http://localhost:3000/api/comprar,29290,0,0
+1764709377910,30063,POST - Comprar,200,OK,Thread Group 1-167,text,true,,313,200,351,351,http://localhost:3000/api/comprar,30063,0,0
+1764709377910,30834,POST - Comprar,200,OK,Thread Group 1-166,text,true,,313,200,350,350,http://localhost:3000/api/comprar,30834,0,0
+1764709377910,31586,POST - Comprar,200,OK,Thread Group 1-168,text,true,,313,200,349,349,http://localhost:3000/api/comprar,31586,0,0
+1764709377911,32283,POST - Comprar,200,OK,Thread Group 1-169,text,true,,313,200,348,348,http://localhost:3000/api/comprar,32283,0,0
+1764709377911,32959,POST - Comprar,200,OK,Thread Group 1-170,text,true,,312,200,347,347,http://localhost:3000/api/comprar,32959,0,0
+1764709377911,33623,POST - Comprar,200,OK,Thread Group 1-171,text,true,,313,200,346,346,http://localhost:3000/api/comprar,33623,0,0
+1764709377911,34280,POST - Comprar,200,OK,Thread Group 1-172,text,true,,313,200,345,345,http://localhost:3000/api/comprar,34280,0,0
+1764709377911,34977,POST - Comprar,200,OK,Thread Group 1-173,text,true,,312,200,344,344,http://localhost:3000/api/comprar,34977,0,0
+1764709377912,35698,POST - Comprar,200,OK,Thread Group 1-174,text,true,,312,200,343,343,http://localhost:3000/api/comprar,35698,0,0
+1764709377912,36365,POST - Comprar,200,OK,Thread Group 1-175,text,true,,312,200,342,342,http://localhost:3000/api/comprar,36365,0,0
+1764709377912,37031,POST - Comprar,200,OK,Thread Group 1-176,text,true,,312,200,341,341,http://localhost:3000/api/comprar,37031,0,0
+1764709377912,37705,POST - Comprar,200,OK,Thread Group 1-177,text,true,,313,200,340,340,http://localhost:3000/api/comprar,37705,0,0
+1764709377912,38419,POST - Comprar,200,OK,Thread Group 1-178,text,true,,313,200,339,339,http://localhost:3000/api/comprar,38419,0,0
+1764709377912,39141,POST - Comprar,200,OK,Thread Group 1-179,text,true,,312,200,338,338,http://localhost:3000/api/comprar,39141,0,0
+1764709377913,39840,POST - Comprar,200,OK,Thread Group 1-180,text,true,,313,200,337,337,http://localhost:3000/api/comprar,39840,0,0
+1764709377913,40495,POST - Comprar,200,OK,Thread Group 1-181,text,true,,312,200,336,336,http://localhost:3000/api/comprar,40495,0,0
+1764709377913,41298,POST - Comprar,200,OK,Thread Group 1-182,text,true,,313,200,335,335,http://localhost:3000/api/comprar,41298,0,0
+1764709377913,41988,POST - Comprar,200,OK,Thread Group 1-183,text,true,,313,200,334,334,http://localhost:3000/api/comprar,41988,0,0
+1764709377913,42660,POST - Comprar,200,OK,Thread Group 1-184,text,true,,312,200,333,333,http://localhost:3000/api/comprar,42660,0,0
+1764709377914,43381,POST - Comprar,200,OK,Thread Group 1-185,text,true,,312,200,332,332,http://localhost:3000/api/comprar,43381,0,0
+1764709377914,44183,POST - Comprar,200,OK,Thread Group 1-186,text,true,,312,200,331,331,http://localhost:3000/api/comprar,44183,0,0
+1764709377914,44958,POST - Comprar,200,OK,Thread Group 1-187,text,true,,313,200,330,330,http://localhost:3000/api/comprar,44958,0,0
+1764709377914,45656,POST - Comprar,200,OK,Thread Group 1-188,text,true,,312,200,329,329,http://localhost:3000/api/comprar,45656,0,0
+1764709377915,46307,POST - Comprar,200,OK,Thread Group 1-189,text,true,,313,200,328,328,http://localhost:3000/api/comprar,46307,0,0
+1764709377915,46953,POST - Comprar,200,OK,Thread Group 1-190,text,true,,313,200,327,327,http://localhost:3000/api/comprar,46953,0,0
+1764709377915,47609,POST - Comprar,200,OK,Thread Group 1-191,text,true,,313,200,326,326,http://localhost:3000/api/comprar,47609,0,0
+1764709377915,48261,POST - Comprar,200,OK,Thread Group 1-192,text,true,,313,200,325,325,http://localhost:3000/api/comprar,48261,0,0
+1764709377915,48905,POST - Comprar,200,OK,Thread Group 1-193,text,true,,313,200,324,324,http://localhost:3000/api/comprar,48905,0,0
+1764709377916,49557,POST - Comprar,200,OK,Thread Group 1-194,text,true,,313,200,323,323,http://localhost:3000/api/comprar,49557,0,0
+1764709377916,50206,POST - Comprar,200,OK,Thread Group 1-195,text,true,,312,200,322,322,http://localhost:3000/api/comprar,50206,0,0
+1764709377916,50860,POST - Comprar,200,OK,Thread Group 1-196,text,true,,312,200,321,321,http://localhost:3000/api/comprar,50860,0,0
+1764709377916,51510,POST - Comprar,200,OK,Thread Group 1-197,text,true,,312,200,320,320,http://localhost:3000/api/comprar,51510,0,0
+1764709377917,52157,POST - Comprar,200,OK,Thread Group 1-198,text,true,,313,200,319,319,http://localhost:3000/api/comprar,52157,0,0
+1764709377917,52802,POST - Comprar,200,OK,Thread Group 1-199,text,true,,313,200,318,318,http://localhost:3000/api/comprar,52802,0,0
+1764709377917,53451,POST - Comprar,200,OK,Thread Group 1-200,text,true,,312,200,317,317,http://localhost:3000/api/comprar,53451,0,0
+1764709377917,54109,POST - Comprar,200,OK,Thread Group 1-201,text,true,,312,200,316,316,http://localhost:3000/api/comprar,54109,0,0
+1764709377918,54758,POST - Comprar,200,OK,Thread Group 1-202,text,true,,313,200,315,315,http://localhost:3000/api/comprar,54758,0,0
+1764709377918,55405,POST - Comprar,200,OK,Thread Group 1-203,text,true,,313,200,314,314,http://localhost:3000/api/comprar,55405,0,0
+1764709377918,56051,POST - Comprar,200,OK,Thread Group 1-204,text,true,,312,200,313,313,http://localhost:3000/api/comprar,56051,0,0
+1764709377918,56694,POST - Comprar,200,OK,Thread Group 1-205,text,true,,312,200,312,312,http://localhost:3000/api/comprar,56694,0,0
+1764709377919,57337,POST - Comprar,200,OK,Thread Group 1-206,text,true,,312,200,311,311,http://localhost:3000/api/comprar,57337,0,0
+1764709377919,57984,POST - Comprar,200,OK,Thread Group 1-207,text,true,,312,200,310,310,http://localhost:3000/api/comprar,57984,0,0
+1764709377919,58628,POST - Comprar,200,OK,Thread Group 1-208,text,true,,313,200,309,309,http://localhost:3000/api/comprar,58628,0,0
+1764709377919,59271,POST - Comprar,200,OK,Thread Group 1-209,text,true,,313,200,308,308,http://localhost:3000/api/comprar,59271,0,0
+1764709377919,59915,POST - Comprar,200,OK,Thread Group 1-210,text,true,,312,200,307,307,http://localhost:3000/api/comprar,59915,0,0
+1764709377920,60556,POST - Comprar,200,OK,Thread Group 1-211,text,true,,313,200,306,306,http://localhost:3000/api/comprar,60556,0,0
+1764709377920,61197,POST - Comprar,200,OK,Thread Group 1-212,text,true,,312,200,305,305,http://localhost:3000/api/comprar,61197,0,0
+1764709377920,61838,POST - Comprar,200,OK,Thread Group 1-213,text,true,,312,200,304,304,http://localhost:3000/api/comprar,61838,0,0
+1764709377920,62486,POST - Comprar,200,OK,Thread Group 1-214,text,true,,312,200,303,303,http://localhost:3000/api/comprar,62486,0,0
+1764709377921,63130,POST - Comprar,200,OK,Thread Group 1-215,text,true,,312,200,302,302,http://localhost:3000/api/comprar,63130,0,0
+1764709377921,63773,POST - Comprar,200,OK,Thread Group 1-216,text,true,,312,200,301,301,http://localhost:3000/api/comprar,63773,0,0
+1764709377921,64416,POST - Comprar,200,OK,Thread Group 1-217,text,true,,312,200,300,300,http://localhost:3000/api/comprar,64416,0,0
+1764709377921,65059,POST - Comprar,200,OK,Thread Group 1-218,text,true,,312,200,299,299,http://localhost:3000/api/comprar,65059,0,0
+1764709377922,65698,POST - Comprar,200,OK,Thread Group 1-219,text,true,,312,200,298,298,http://localhost:3000/api/comprar,65698,0,0
+1764709377922,66343,POST - Comprar,200,OK,Thread Group 1-220,text,true,,312,200,297,297,http://localhost:3000/api/comprar,66343,0,0
+1764709377922,66988,POST - Comprar,200,OK,Thread Group 1-221,text,true,,312,200,296,296,http://localhost:3000/api/comprar,66988,0,0
+1764709377923,67632,POST - Comprar,200,OK,Thread Group 1-222,text,true,,313,200,295,295,http://localhost:3000/api/comprar,67632,0,0
+1764709377923,68273,POST - Comprar,200,OK,Thread Group 1-223,text,true,,313,200,294,294,http://localhost:3000/api/comprar,68273,0,0
+1764709377923,68916,POST - Comprar,200,OK,Thread Group 1-224,text,true,,312,200,293,293,http://localhost:3000/api/comprar,68916,0,0
+1764709377923,69559,POST - Comprar,200,OK,Thread Group 1-225,text,true,,312,200,292,292,http://localhost:3000/api/comprar,69559,0,0
+1764709377924,70200,POST - Comprar,200,OK,Thread Group 1-226,text,true,,312,200,291,291,http://localhost:3000/api/comprar,70200,0,0
+1764709377924,70840,POST - Comprar,200,OK,Thread Group 1-227,text,true,,313,200,290,290,http://localhost:3000/api/comprar,70840,0,0
+1764709377924,71480,POST - Comprar,200,OK,Thread Group 1-228,text,true,,312,200,289,289,http://localhost:3000/api/comprar,71480,0,0
+1764709377924,72123,POST - Comprar,200,OK,Thread Group 1-229,text,true,,313,200,288,288,http://localhost:3000/api/comprar,72123,0,0
+1764709377925,72765,POST - Comprar,200,OK,Thread Group 1-230,text,true,,312,200,287,287,http://localhost:3000/api/comprar,72765,0,0
+1764709377925,73405,POST - Comprar,200,OK,Thread Group 1-231,text,true,,312,200,286,286,http://localhost:3000/api/comprar,73405,0,0
+1764709377925,74047,POST - Comprar,200,OK,Thread Group 1-232,text,true,,313,200,285,285,http://localhost:3000/api/comprar,74047,0,0
+1764709377925,74687,POST - Comprar,200,OK,Thread Group 1-233,text,true,,313,200,284,284,http://localhost:3000/api/comprar,74687,0,0
+1764709377926,75329,POST - Comprar,200,OK,Thread Group 1-234,text,true,,312,200,283,283,http://localhost:3000/api/comprar,75329,0,0
+1764709377926,75969,POST - Comprar,200,OK,Thread Group 1-235,text,true,,313,200,282,282,http://localhost:3000/api/comprar,75969,0,0
+1764709377926,76611,POST - Comprar,200,OK,Thread Group 1-236,text,true,,312,200,281,281,http://localhost:3000/api/comprar,76611,0,0
+1764709377926,77251,POST - Comprar,200,OK,Thread Group 1-237,text,true,,313,200,280,280,http://localhost:3000/api/comprar,77251,0,0
+1764709377927,77892,POST - Comprar,200,OK,Thread Group 1-238,text,true,,312,200,279,279,http://localhost:3000/api/comprar,77892,0,0
+1764709377927,78532,POST - Comprar,200,OK,Thread Group 1-239,text,true,,313,200,278,278,http://localhost:3000/api/comprar,78532,0,0
+1764709377927,79184,POST - Comprar,200,OK,Thread Group 1-240,text,true,,312,200,277,277,http://localhost:3000/api/comprar,79184,0,0
+1764709377927,79829,POST - Comprar,200,OK,Thread Group 1-241,text,true,,313,200,276,276,http://localhost:3000/api/comprar,79829,0,0
+1764709377928,80472,POST - Comprar,200,OK,Thread Group 1-242,text,true,,313,200,275,275,http://localhost:3000/api/comprar,80472,0,0
+1764709377928,81114,POST - Comprar,200,OK,Thread Group 1-243,text,true,,313,200,274,274,http://localhost:3000/api/comprar,81114,0,0
+1764709377928,81755,POST - Comprar,200,OK,Thread Group 1-244,text,true,,313,200,273,273,http://localhost:3000/api/comprar,81755,0,0
+1764709377928,82396,POST - Comprar,200,OK,Thread Group 1-245,text,true,,313,200,272,272,http://localhost:3000/api/comprar,82396,0,0
+1764709377928,83050,POST - Comprar,200,OK,Thread Group 1-246,text,true,,313,200,271,271,http://localhost:3000/api/comprar,83050,0,0
+1764709377929,83689,POST - Comprar,200,OK,Thread Group 1-247,text,true,,312,200,270,270,http://localhost:3000/api/comprar,83689,0,0
+1764709377929,84332,POST - Comprar,200,OK,Thread Group 1-248,text,true,,313,200,269,269,http://localhost:3000/api/comprar,84332,0,0
+1764709377929,84979,POST - Comprar,200,OK,Thread Group 1-249,text,true,,312,200,268,268,http://localhost:3000/api/comprar,84979,0,0
+1764709377929,85619,POST - Comprar,200,OK,Thread Group 1-250,text,true,,312,200,267,267,http://localhost:3000/api/comprar,85619,0,0
+1764709377929,86261,POST - Comprar,200,OK,Thread Group 1-251,text,true,,313,200,266,266,http://localhost:3000/api/comprar,86261,0,0
+1764709377930,86901,POST - Comprar,200,OK,Thread Group 1-252,text,true,,313,200,265,265,http://localhost:3000/api/comprar,86901,0,0
+1764709377930,87542,POST - Comprar,200,OK,Thread Group 1-253,text,true,,312,200,264,264,http://localhost:3000/api/comprar,87542,0,0
+1764709377930,88184,POST - Comprar,200,OK,Thread Group 1-254,text,true,,312,200,263,263,http://localhost:3000/api/comprar,88184,0,0
+1764709377930,88826,POST - Comprar,200,OK,Thread Group 1-255,text,true,,312,200,262,262,http://localhost:3000/api/comprar,88826,0,0
+1764709377930,89466,POST - Comprar,200,OK,Thread Group 1-256,text,true,,313,200,261,261,http://localhost:3000/api/comprar,89466,0,0
+1764709377931,90113,POST - Comprar,200,OK,Thread Group 1-257,text,true,,313,200,260,260,http://localhost:3000/api/comprar,90113,0,0
+1764709377931,90763,POST - Comprar,200,OK,Thread Group 1-258,text,true,,313,200,259,259,http://localhost:3000/api/comprar,90763,0,0
+1764709377931,91406,POST - Comprar,200,OK,Thread Group 1-259,text,true,,313,200,258,258,http://localhost:3000/api/comprar,91406,0,0
+1764709377931,92045,POST - Comprar,200,OK,Thread Group 1-260,text,true,,313,200,257,257,http://localhost:3000/api/comprar,92045,0,0
+1764709377931,92687,POST - Comprar,200,OK,Thread Group 1-261,text,true,,312,200,256,256,http://localhost:3000/api/comprar,92687,0,0
+1764709377932,93326,POST - Comprar,200,OK,Thread Group 1-262,text,true,,312,200,255,255,http://localhost:3000/api/comprar,93326,0,0
+1764709377932,93964,POST - Comprar,200,OK,Thread Group 1-263,text,true,,312,200,254,254,http://localhost:3000/api/comprar,93964,0,0
+1764709377932,94604,POST - Comprar,200,OK,Thread Group 1-265,text,true,,312,200,253,253,http://localhost:3000/api/comprar,94604,0,0
+1764709377932,95244,POST - Comprar,200,OK,Thread Group 1-264,text,true,,312,200,252,252,http://localhost:3000/api/comprar,95244,0,0
+1764709377933,95883,POST - Comprar,200,OK,Thread Group 1-266,text,true,,312,200,251,251,http://localhost:3000/api/comprar,95883,0,0
+1764709377933,96525,POST - Comprar,200,OK,Thread Group 1-267,text,true,,312,200,250,250,http://localhost:3000/api/comprar,96525,0,0
+1764709377933,97167,POST - Comprar,200,OK,Thread Group 1-268,text,true,,313,200,249,249,http://localhost:3000/api/comprar,97167,0,0
+1764709377933,97814,POST - Comprar,200,OK,Thread Group 1-269,text,true,,313,200,248,248,http://localhost:3000/api/comprar,97814,0,0
+1764709377934,98460,POST - Comprar,200,OK,Thread Group 1-271,text,true,,313,200,247,247,http://localhost:3000/api/comprar,98460,0,0
+1764709377934,99110,POST - Comprar,200,OK,Thread Group 1-270,text,true,,313,200,246,246,http://localhost:3000/api/comprar,99110,0,0
+1764709377934,99751,POST - Comprar,200,OK,Thread Group 1-272,text,true,,313,200,245,245,http://localhost:3000/api/comprar,99751,0,0
+1764709377934,100395,POST - Comprar,200,OK,Thread Group 1-273,text,true,,312,200,244,244,http://localhost:3000/api/comprar,100395,0,0
+1764709377934,101046,POST - Comprar,200,OK,Thread Group 1-274,text,true,,313,200,243,243,http://localhost:3000/api/comprar,101046,0,0
+1764709377934,101687,POST - Comprar,200,OK,Thread Group 1-275,text,true,,313,200,242,242,http://localhost:3000/api/comprar,101687,0,0
+1764709377935,102328,POST - Comprar,200,OK,Thread Group 1-276,text,true,,313,200,241,241,http://localhost:3000/api/comprar,102328,0,0
+1764709377935,102969,POST - Comprar,200,OK,Thread Group 1-277,text,true,,312,200,240,240,http://localhost:3000/api/comprar,102969,0,0
+1764709377935,103611,POST - Comprar,200,OK,Thread Group 1-279,text,true,,312,200,239,239,http://localhost:3000/api/comprar,103611,0,0
+1764709377936,104250,POST - Comprar,200,OK,Thread Group 1-280,text,true,,312,200,238,238,http://localhost:3000/api/comprar,104250,0,0
+1764709377936,104888,POST - Comprar,200,OK,Thread Group 1-281,text,true,,313,200,237,237,http://localhost:3000/api/comprar,104888,0,0
+1764709377947,105441,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-331,text,false,,2669,0,236,236,http://localhost:3000/api/comprar,0,0,0
+1764709377952,105437,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-357,text,false,,2669,0,236,236,http://localhost:3000/api/comprar,0,0,0
+1764709377898,105490,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-111,text,false,,2669,0,236,236,http://localhost:3000/api/comprar,0,0,0
+1764709377939,105450,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-294,text,false,,2669,0,236,236,http://localhost:3000/api/comprar,0,0,0
+1764709377947,105442,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-330,text,false,,2669,0,236,236,http://localhost:3000/api/comprar,0,0,0
+1764709377959,105430,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-393,text,false,,2669,0,236,236,http://localhost:3000/api/comprar,0,0,0
+1764709377969,105420,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-442,text,false,,2669,0,235,235,http://localhost:3000/api/comprar,0,0,0
+1764709377954,105434,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-370,text,false,,2669,0,235,235,http://localhost:3000/api/comprar,0,0,0
+1764709377968,105421,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-437,text,false,,2669,0,235,235,http://localhost:3000/api/comprar,0,0,0
+1764709377969,105419,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-441,text,false,,2669,0,231,231,http://localhost:3000/api/comprar,0,0,0
+1764709377978,105410,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-497,text,false,,2669,0,231,231,http://localhost:3000/api/comprar,0,0,0
+1764709377942,105447,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-308,text,false,,2669,0,231,231,http://localhost:3000/api/comprar,0,0,0
+1764709377949,105440,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-342,text,false,,2669,0,231,231,http://localhost:3000/api/comprar,0,0,0
+1764709377964,105426,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-416,text,false,,2669,0,230,230,http://localhost:3000/api/comprar,0,0,0
+1764709377977,105412,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-490,text,false,,2669,0,228,228,http://localhost:3000/api/comprar,0,0,0
+1764709377121,106269,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-110,text,false,,2669,0,226,226,http://localhost:3000/api/comprar,0,0,0
+1764709377942,105448,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-307,text,false,,2669,0,225,225,http://localhost:3000/api/comprar,0,0,0
+1764709377979,105411,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-500,text,false,,2669,0,224,224,http://localhost:3000/api/comprar,0,0,0
+1764709377939,105451,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-292,text,false,,2669,0,223,223,http://localhost:3000/api/comprar,0,0,0
+1764709377973,105417,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-466,text,false,,2669,0,217,217,http://localhost:3000/api/comprar,0,0,0
+1764709377971,105420,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-455,text,false,,2669,0,217,217,http://localhost:3000/api/comprar,0,0,0
+1764709377899,105492,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-121,text,false,,2669,0,215,215,http://localhost:3000/api/comprar,0,0,1
+1764709377958,105433,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-388,text,false,,2669,0,215,215,http://localhost:3000/api/comprar,0,0,0
+1764709377971,105420,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-456,text,false,,2669,0,213,213,http://localhost:3000/api/comprar,0,0,0
+1764709377968,105423,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-440,text,false,,2669,0,213,213,http://localhost:3000/api/comprar,0,0,0
+1764709377963,105428,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-411,text,false,,2669,0,211,211,http://localhost:3000/api/comprar,0,0,0
+1764709377972,105419,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-459,text,false,,2669,0,211,211,http://localhost:3000/api/comprar,0,0,0
+1764709377963,105428,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-414,text,false,,2669,0,210,210,http://localhost:3000/api/comprar,0,0,0
+1764709377951,105440,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-353,text,false,,2669,0,208,208,http://localhost:3000/api/comprar,0,0,0
+1764709377900,105491,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-125,text,false,,2669,0,208,208,http://localhost:3000/api/comprar,0,0,0
+1764709377952,105440,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-358,text,false,,2669,0,206,206,http://localhost:3000/api/comprar,0,0,0
+1764709377952,105440,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-359,text,false,,2669,0,205,205,http://localhost:3000/api/comprar,0,0,0
+1764709377962,105430,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-408,text,false,,2669,0,204,204,http://localhost:3000/api/comprar,0,0,0
+1764709377970,105422,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-450,text,false,,2669,0,204,204,http://localhost:3000/api/comprar,0,0,0
+1764709377972,105420,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-460,text,false,,2669,0,202,202,http://localhost:3000/api/comprar,0,0,0
+1764709377950,105442,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-347,text,false,,2669,0,202,202,http://localhost:3000/api/comprar,0,0,0
+1764709377957,105435,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-384,text,false,,2669,0,201,201,http://localhost:3000/api/comprar,0,0,0
+1764709377941,105452,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-304,text,false,,2669,0,200,200,http://localhost:3000/api/comprar,0,0,0
+1764709377966,105427,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-426,text,false,,2669,0,198,198,http://localhost:3000/api/comprar,0,0,0
+1764709377974,105419,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-470,text,false,,2669,0,198,198,http://localhost:3000/api/comprar,0,0,0
+1764709377956,105439,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-378,text,false,,2669,0,196,196,http://localhost:3000/api/comprar,0,0,0
+1764709377964,105431,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-415,text,false,,2669,0,195,195,http://localhost:3000/api/comprar,0,0,0
+1764709377966,105429,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-429,text,false,,2669,0,195,195,http://localhost:3000/api/comprar,0,0,0
+1764709377972,105423,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-457,text,false,,2669,0,195,195,http://localhost:3000/api/comprar,0,0,0
+1764709377951,105444,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-352,text,false,,2669,0,195,195,http://localhost:3000/api/comprar,0,0,0
+1764709377955,105441,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-373,text,false,,2669,0,194,194,http://localhost:3000/api/comprar,0,0,0
+1764709377970,105426,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-449,text,false,,2669,0,194,194,http://localhost:3000/api/comprar,0,0,0
+1764709377972,105424,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-462,text,false,,2669,0,194,194,http://localhost:3000/api/comprar,0,0,0
+1764709377938,105458,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-287,text,false,,2669,0,192,192,http://localhost:3000/api/comprar,0,0,0
+1764709377958,105438,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-387,text,false,,2669,0,192,192,http://localhost:3000/api/comprar,0,0,0
+1764709377976,105420,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-483,text,false,,2669,0,192,192,http://localhost:3000/api/comprar,0,0,0
+1764709377940,105456,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-296,text,false,,2669,0,189,189,http://localhost:3000/api/comprar,0,0,0
+1764709377948,105449,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-336,text,false,,2669,0,185,185,http://localhost:3000/api/comprar,0,0,0
+1764709377979,105418,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-498,text,false,,2669,0,184,184,http://localhost:3000/api/comprar,0,0,0
+1764709377969,105428,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-444,text,false,,2669,0,184,184,http://localhost:3000/api/comprar,0,0,0
+1764709377975,105422,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-477,text,false,,2669,0,182,182,http://localhost:3000/api/comprar,0,0,0
+1764709377976,105422,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-484,text,false,,2669,0,181,181,http://localhost:3000/api/comprar,0,0,0
+1764709377962,105436,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-407,text,false,,2669,0,180,180,http://localhost:3000/api/comprar,0,0,0
+1764709377951,105447,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-350,text,false,,2669,0,178,178,http://localhost:3000/api/comprar,0,0,0
+1764709377955,105443,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-372,text,false,,2669,0,178,178,http://localhost:3000/api/comprar,0,0,0
+1764709377937,105462,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-286,text,false,,2669,0,176,176,http://localhost:3000/api/comprar,0,0,0
+1764709377942,105457,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-306,text,false,,2669,0,176,176,http://localhost:3000/api/comprar,0,0,0
+1764709377958,105441,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-386,text,false,,2669,0,175,175,http://localhost:3000/api/comprar,0,0,0
+1764709377964,105435,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-419,text,false,,2669,0,174,174,http://localhost:3000/api/comprar,0,0,0
+1764709377974,105425,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-472,text,false,,2669,0,173,173,http://localhost:3000/api/comprar,0,0,0
+1764709377973,105426,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-465,text,false,,2669,0,173,173,http://localhost:3000/api/comprar,0,0,0
+1764709377957,105442,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-383,text,false,,2669,0,171,171,http://localhost:3000/api/comprar,0,0,0
+1764709377942,105457,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-305,text,false,,2669,0,170,170,http://localhost:3000/api/comprar,0,0,0
+1764709377898,105501,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-115,text,false,,2669,0,171,171,http://localhost:3000/api/comprar,0,0,0
+1764709377944,105456,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-317,text,false,,2669,0,167,167,http://localhost:3000/api/comprar,0,0,0
+1764709377947,105453,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-333,text,false,,2669,0,166,166,http://localhost:3000/api/comprar,0,0,0
+1764709377956,105448,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-376,text,false,,2669,0,165,165,http://localhost:3000/api/comprar,0,0,0
+1764709377953,105451,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-364,text,false,,2669,0,165,165,http://localhost:3000/api/comprar,0,0,0
+1764709377960,105444,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-399,text,false,,2669,0,164,164,http://localhost:3000/api/comprar,0,0,0
+1764709377940,105464,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-300,text,false,,2669,0,164,164,http://localhost:3000/api/comprar,0,0,0
+1764709377941,105464,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-303,text,false,,2669,0,164,164,http://localhost:3000/api/comprar,0,0,0
+1764709377976,105429,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-485,text,false,,2669,0,163,163,http://localhost:3000/api/comprar,0,0,0
+1764709377978,105427,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-495,text,false,,2669,0,163,163,http://localhost:3000/api/comprar,0,0,0
+1764709377960,105445,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-397,text,false,,2669,0,163,163,http://localhost:3000/api/comprar,0,0,0
+1764709377900,105505,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-124,text,false,,2669,0,161,161,http://localhost:3000/api/comprar,0,0,0
+1764709377971,105434,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-452,text,false,,2669,0,160,160,http://localhost:3000/api/comprar,0,0,0
+1764709377943,105462,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-314,text,false,,2669,0,159,159,http://localhost:3000/api/comprar,0,0,0
+1764709377973,105433,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-463,text,false,,2669,0,159,159,http://localhost:3000/api/comprar,0,0,0
+1764709377946,105460,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-326,text,false,,2669,0,157,157,http://localhost:3000/api/comprar,0,0,0
+1764709377972,105434,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-458,text,false,,2669,0,157,157,http://localhost:3000/api/comprar,0,0,0
+1764709377967,105440,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-433,text,false,,2669,0,152,152,http://localhost:3000/api/comprar,0,0,0
+1764709377966,105441,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-428,text,false,,2669,0,150,150,http://localhost:3000/api/comprar,0,0,0
+1764709377940,105467,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-299,text,false,,2669,0,150,150,http://localhost:3000/api/comprar,0,0,0
+1764709377948,105459,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-338,text,false,,2669,0,150,150,http://localhost:3000/api/comprar,0,0,0
+1764709377952,105455,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-355,text,false,,2669,0,148,148,http://localhost:3000/api/comprar,0,0,0
+1764709377979,105428,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-499,text,false,,2669,0,148,148,http://localhost:3000/api/comprar,0,0,0
+1764709377938,105470,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-289,text,false,,2669,0,145,145,http://localhost:3000/api/comprar,0,0,0
+1764709377964,105444,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-417,text,false,,2669,0,144,144,http://localhost:3000/api/comprar,0,0,0
+1764709377954,105454,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-367,text,false,,2669,0,143,143,http://localhost:3000/api/comprar,0,0,0
+1764709377940,105468,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-298,text,false,,2669,0,143,143,http://localhost:3000/api/comprar,0,0,0
+1764709377900,105508,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-122,text,false,,2669,0,142,142,http://localhost:3000/api/comprar,0,0,0
+1764709377965,105444,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-420,text,false,,2669,0,142,142,http://localhost:3000/api/comprar,0,0,0
+1764709377899,105510,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-118,text,false,,2669,0,141,141,http://localhost:3000/api/comprar,0,0,0
+1764709377957,105452,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-380,text,false,,2669,0,141,141,http://localhost:3000/api/comprar,0,0,0
+1764709377949,105460,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-345,text,false,,2669,0,140,140,http://localhost:3000/api/comprar,0,0,0
+1764709377975,105434,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-478,text,false,,2669,0,140,140,http://localhost:3000/api/comprar,0,0,0
+1764709377960,105449,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-396,text,false,,2669,0,139,139,http://localhost:3000/api/comprar,0,0,0
+1764709377953,105456,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-361,text,false,,2669,0,136,136,http://localhost:3000/api/comprar,0,0,0
+1764709377900,105509,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-123,text,false,,2669,0,136,136,http://localhost:3000/api/comprar,0,0,0
+1764709377969,105440,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-445,text,false,,2669,0,136,136,http://localhost:3000/api/comprar,0,0,0
+1764709377956,105454,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-377,text,false,,2669,0,135,135,http://localhost:3000/api/comprar,0,0,0
+1764709377970,105440,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-447,text,false,,2669,0,133,133,http://localhost:3000/api/comprar,0,0,0
+1764709377945,105465,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-325,text,false,,2669,0,132,132,http://localhost:3000/api/comprar,0,0,0
+1764709377977,105433,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-489,text,false,,2669,0,131,131,http://localhost:3000/api/comprar,0,0,0
+1764709377967,105443,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-435,text,false,,2669,0,131,131,http://localhost:3000/api/comprar,0,0,0
+1764709377954,105456,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-365,text,false,,2669,0,129,129,http://localhost:3000/api/comprar,0,0,0
+1764709377937,105473,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-283,text,false,,2669,0,129,129,http://localhost:3000/api/comprar,0,0,0
+1764709377962,105449,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-406,text,false,,2669,0,128,128,http://localhost:3000/api/comprar,0,0,0
+1764709377949,105462,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-341,text,false,,2669,0,128,128,http://localhost:3000/api/comprar,0,0,0
+1764709377962,105449,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-410,text,false,,2669,0,128,128,http://localhost:3000/api/comprar,0,0,0
+1764709377967,105444,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-434,text,false,,2669,0,125,125,http://localhost:3000/api/comprar,0,0,0
+1764709377945,105466,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-323,text,false,,2669,0,125,125,http://localhost:3000/api/comprar,0,0,0
+1764709377952,105459,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-356,text,false,,2669,0,123,123,http://localhost:3000/api/comprar,0,0,0
+1764709377967,105445,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-432,text,false,,2669,0,123,123,http://localhost:3000/api/comprar,0,0,0
+1764709377946,105466,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-329,text,false,,2669,0,118,118,http://localhost:3000/api/comprar,0,0,0
+1764709377938,105474,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-288,text,false,,2669,0,118,118,http://localhost:3000/api/comprar,0,0,0
+1764709377938,105474,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-290,text,false,,2669,0,118,118,http://localhost:3000/api/comprar,0,0,0
+1764709377965,105448,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-424,text,false,,2669,0,118,118,http://localhost:3000/api/comprar,0,0,0
+1764709377945,105468,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-321,text,false,,2669,0,115,115,http://localhost:3000/api/comprar,0,0,0
+1764709377944,105469,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-319,text,false,,2669,0,115,115,http://localhost:3000/api/comprar,0,0,0
+1764709377949,105464,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-340,text,false,,2669,0,111,111,http://localhost:3000/api/comprar,0,0,0
+1764709377955,105459,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-371,text,false,,2669,0,111,111,http://localhost:3000/api/comprar,0,0,0
+1764709377898,105515,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-114,text,false,,2669,0,111,111,http://localhost:3000/api/comprar,0,0,0
+1764709377950,105464,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-348,text,false,,2669,0,111,111,http://localhost:3000/api/comprar,0,0,0
+1764709377944,105470,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-320,text,false,,2669,0,111,111,http://localhost:3000/api/comprar,0,0,0
+1764709377944,105470,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-318,text,false,,2669,0,110,110,http://localhost:3000/api/comprar,0,0,0
+1764709377966,105448,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-427,text,false,,2669,0,105,105,http://localhost:3000/api/comprar,0,0,0
+1764709377968,105447,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-436,text,false,,2669,0,104,104,http://localhost:3000/api/comprar,0,0,0
+1764709377977,105438,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-486,text,false,,2669,0,103,103,http://localhost:3000/api/comprar,0,0,0
+1764709377954,105461,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-368,text,false,,2669,0,102,102,http://localhost:3000/api/comprar,0,0,0
+1764709377943,105473,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-311,text,false,,2669,0,101,101,http://localhost:3000/api/comprar,0,0,0
+1764709377961,105455,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-405,text,false,,2669,0,101,101,http://localhost:3000/api/comprar,0,0,0
+1764709377954,105462,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-366,text,false,,2669,0,101,101,http://localhost:3000/api/comprar,0,0,0
+1764709377974,105442,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-471,text,false,,2669,0,99,99,http://localhost:3000/api/comprar,0,0,0
+1764709377970,105446,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-448,text,false,,2669,0,98,98,http://localhost:3000/api/comprar,0,0,0
+1764709377961,105455,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-403,text,false,,2669,0,97,97,http://localhost:3000/api/comprar,0,0,0
+1764709377977,105439,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-491,text,false,,2669,0,96,96,http://localhost:3000/api/comprar,0,0,0
+1764709377946,105471,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-328,text,false,,2669,0,95,95,http://localhost:3000/api/comprar,0,0,0
+1764709377978,105439,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-494,text,false,,2669,0,93,93,http://localhost:3000/api/comprar,0,0,0
+1764709377968,105449,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-438,text,false,,2669,0,93,93,http://localhost:3000/api/comprar,0,0,0
+1764709377963,105454,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-413,text,false,,2669,0,93,93,http://localhost:3000/api/comprar,0,0,0
+1764709377937,105480,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-282,text,false,,2669,0,91,91,http://localhost:3000/api/comprar,0,0,0
+1764709377956,105461,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-375,text,false,,2669,0,90,90,http://localhost:3000/api/comprar,0,0,0
+1764709377937,105481,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-285,text,false,,2669,0,89,89,http://localhost:3000/api/comprar,0,0,0
+1764709377953,105465,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-362,text,false,,2669,0,89,89,http://localhost:3000/api/comprar,0,0,0
+1764709377942,105476,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-310,text,false,,2669,0,89,89,http://localhost:3000/api/comprar,0,0,0
+1764709377974,105444,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-469,text,false,,2669,0,88,88,http://localhost:3000/api/comprar,0,0,0
+1764709377976,105443,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-480,text,false,,2669,0,86,86,http://localhost:3000/api/comprar,0,0,0
+1764709377948,105471,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-339,text,false,,2669,0,85,85,http://localhost:3000/api/comprar,0,0,0
+1764709377970,105449,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-446,text,false,,2669,0,85,85,http://localhost:3000/api/comprar,0,0,0
+1764709377958,105461,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-389,text,false,,2669,0,85,85,http://localhost:3000/api/comprar,0,0,0
+1764709377949,105471,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-344,text,false,,2669,0,85,85,http://localhost:3000/api/comprar,0,0,0
+1764709377976,105444,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-482,text,false,,2669,0,85,85,http://localhost:3000/api/comprar,0,0,0
+1764709377959,105461,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-392,text,false,,2669,0,85,85,http://localhost:3000/api/comprar,0,0,0
+1764709377939,105481,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-295,text,false,,2669,0,85,85,http://localhost:3000/api/comprar,0,0,0
+1764709377899,105521,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-120,text,false,,2669,0,85,85,http://localhost:3000/api/comprar,0,0,0
+1764709377941,105479,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-301,text,false,,2669,0,85,85,http://localhost:3000/api/comprar,0,0,0
+1764709377959,105461,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-395,text,false,,2669,0,85,85,http://localhost:3000/api/comprar,0,0,0
+1764709377971,105450,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-451,text,false,,2669,0,85,85,http://localhost:3000/api/comprar,0,0,0
+1764709377968,105453,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-439,text,false,,2669,0,85,85,http://localhost:3000/api/comprar,0,0,0
+1764709377949,105472,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-343,text,false,,2669,0,85,85,http://localhost:3000/api/comprar,0,0,0
+1764709377976,105445,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-481,text,false,,2669,0,82,82,http://localhost:3000/api/comprar,0,0,0
+1764709377943,105482,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-315,text,false,,2669,0,69,69,http://localhost:3000/api/comprar,0,0,0
+1764709377950,105475,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-349,text,false,,2669,0,69,69,http://localhost:3000/api/comprar,0,0,0
+1764709377946,105479,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-327,text,false,,2669,0,69,69,http://localhost:3000/api/comprar,0,0,0
+1764709377960,105464,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-398,text,false,,2669,0,69,69,http://localhost:3000/api/comprar,0,0,0
+1764709377966,105458,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-430,text,false,,2669,0,67,67,http://localhost:3000/api/comprar,0,0,0
+1764709377942,105484,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-309,text,false,,2669,0,66,66,http://localhost:3000/api/comprar,0,0,0
+1764709377973,105453,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-467,text,false,,2669,0,65,65,http://localhost:3000/api/comprar,0,0,0
+1764709377978,105448,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-496,text,false,,2669,0,64,64,http://localhost:3000/api/comprar,0,0,0
+1764709377960,105466,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-400,text,false,,2669,0,63,63,http://localhost:3000/api/comprar,0,0,0
+1764709377969,105455,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-443,text,false,,2669,0,61,61,http://localhost:3000/api/comprar,0,0,0
+1764709377975,105465,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-474,text,false,,2669,0,59,59,http://localhost:3000/api/comprar,0,0,0
+1764709377945,105495,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-324,text,false,,2669,0,59,59,http://localhost:3000/api/comprar,0,0,0
+1764709377971,105469,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-453,text,false,,2669,0,58,58,http://localhost:3000/api/comprar,0,0,0
+1764709377964,105476,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-418,text,false,,2669,0,57,57,http://localhost:3000/api/comprar,0,0,0
+1764709377975,105465,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-479,text,false,,2669,0,57,57,http://localhost:3000/api/comprar,0,0,0
+1764709377951,105489,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-351,text,false,,2669,0,56,56,http://localhost:3000/api/comprar,0,0,0
+1764709377948,105493,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-335,text,false,,2669,0,55,55,http://localhost:3000/api/comprar,0,0,0
+1764709377967,105474,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-431,text,false,,2669,0,55,55,http://localhost:3000/api/comprar,0,0,0
+1764709377941,105500,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-302,text,false,,2669,0,51,51,http://localhost:3000/api/comprar,0,0,0
+1764709377951,105490,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-354,text,false,,2669,0,51,51,http://localhost:3000/api/comprar,0,0,0
+1764709377961,105480,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-404,text,false,,2669,0,49,49,http://localhost:3000/api/comprar,0,0,0
+1764709377965,105476,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-421,text,false,,2669,0,49,49,http://localhost:3000/api/comprar,0,0,0
+1764709377939,105502,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-291,text,false,,2669,0,47,47,http://localhost:3000/api/comprar,0,0,0
+1764709377899,105543,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-117,text,false,,2669,0,46,46,http://localhost:3000/api/comprar,0,0,0
+1764709377940,105502,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-297,text,false,,2669,0,45,45,http://localhost:3000/api/comprar,0,0,0
+1764709377957,105485,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-382,text,false,,2669,0,44,44,http://localhost:3000/api/comprar,0,0,0
+1764709377957,105483,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-381,text,false,,2669,0,44,44,http://localhost:3000/api/comprar,0,0,0
+1764709377975,105467,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-475,text,false,,2669,0,44,44,http://localhost:3000/api/comprar,0,0,0
+1764709377948,105495,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-337,text,false,,2669,0,44,44,http://localhost:3000/api/comprar,0,0,0
+1764709377939,105504,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-293,text,false,,2669,0,43,43,http://localhost:3000/api/comprar,0,0,0
+1764709377963,105480,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-412,text,false,,2669,0,41,41,http://localhost:3000/api/comprar,0,0,0
+1764709377965,105475,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-422,text,false,,2669,0,39,39,http://localhost:3000/api/comprar,0,0,0
+1764709377978,105465,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-492,text,false,,2669,0,39,39,http://localhost:3000/api/comprar,0,0,0
+1764709377937,105506,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-284,text,false,,2669,0,37,37,http://localhost:3000/api/comprar,0,0,0
+1764709377959,105484,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-391,text,false,,2669,0,37,37,http://localhost:3000/api/comprar,0,0,0
+1764709377899,105544,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-119,text,false,,2669,0,35,35,http://localhost:3000/api/comprar,0,0,0
+1764709377961,105483,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-401,text,false,,2669,0,34,34,http://localhost:3000/api/comprar,0,0,0
+1764709377898,105546,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-113,text,false,,2669,0,32,32,http://localhost:3000/api/comprar,0,0,0
+1764709377947,105497,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-332,text,false,,2669,0,31,31,http://localhost:3000/api/comprar,0,0,0
+1764709377965,105479,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-423,text,false,,2669,0,31,31,http://localhost:3000/api/comprar,0,0,0
+1764709377977,105467,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-488,text,false,,2669,0,29,29,http://localhost:3000/api/comprar,0,0,0
+1764709377954,105490,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-369,text,false,,2669,0,29,29,http://localhost:3000/api/comprar,0,0,0
+1764709377966,105478,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-425,text,false,,2669,0,27,27,http://localhost:3000/api/comprar,0,0,0
+1764709377945,105500,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-322,text,false,,2669,0,26,26,http://localhost:3000/api/comprar,0,0,0
+1764709377975,105470,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-476,text,false,,2669,0,26,26,http://localhost:3000/api/comprar,0,0,0
+1764709377959,105486,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-390,text,false,,2669,0,24,24,http://localhost:3000/api/comprar,0,0,0
+1764709377977,105468,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-487,text,false,,2669,0,24,24,http://localhost:3000/api/comprar,0,0,0
+1764709377952,105493,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-360,text,false,,2669,0,22,22,http://localhost:3000/api/comprar,0,0,0
+1764709377959,105487,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-394,text,false,,2669,0,21,21,http://localhost:3000/api/comprar,0,0,0
+1764709377974,105471,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-473,text,false,,2669,0,21,21,http://localhost:3000/api/comprar,0,0,0
+1764709377972,105474,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-461,text,false,,2669,0,21,21,http://localhost:3000/api/comprar,0,0,0
+1764709377944,105502,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-316,text,false,,2669,0,19,19,http://localhost:3000/api/comprar,0,0,0
+1764709377943,105503,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-313,text,false,,2669,0,19,19,http://localhost:3000/api/comprar,0,0,0
+1764709377973,105473,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-464,text,false,,2669,0,18,18,http://localhost:3000/api/comprar,0,0,0
+1764709377943,105503,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-312,text,false,,2669,0,18,18,http://localhost:3000/api/comprar,0,0,0
+1764709377978,105467,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-493,text,false,,2669,0,17,17,http://localhost:3000/api/comprar,0,0,0
+1764709377974,105473,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-468,text,false,,2669,0,17,17,http://localhost:3000/api/comprar,0,0,0
+1764709377962,105485,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-409,text,false,,2669,0,16,16,http://localhost:3000/api/comprar,0,0,0
+1764709377958,105489,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-385,text,false,,2669,0,16,16,http://localhost:3000/api/comprar,0,0,0
+1764709377953,105492,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-363,text,false,,2669,0,16,16,http://localhost:3000/api/comprar,0,0,0
+1764709377971,105477,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-454,text,false,,2669,0,14,14,http://localhost:3000/api/comprar,0,0,0
+1764709377898,105550,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-116,text,false,,2669,0,14,14,http://localhost:3000/api/comprar,0,0,1
+1764709377955,105493,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-374,text,false,,2669,0,12,12,http://localhost:3000/api/comprar,0,0,0
+1764709377950,105498,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-346,text,false,,2669,0,12,12,http://localhost:3000/api/comprar,0,0,0
+1764709377956,105492,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-379,text,false,,2669,0,10,10,http://localhost:3000/api/comprar,0,0,0
+1764709377898,105551,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-112,text,false,,2669,0,10,10,http://localhost:3000/api/comprar,0,0,0
+1764709377961,105489,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-402,text,false,,2669,0,4,4,http://localhost:3000/api/comprar,0,0,0
+1764709377947,105503,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-334,text,false,,2669,0,4,4,http://localhost:3000/api/comprar,0,0,0
+1764709377936,105516,POST - Comprar,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-278,text,false,,2669,0,1,1,http://localhost:3000/api/comprar,0,0,0

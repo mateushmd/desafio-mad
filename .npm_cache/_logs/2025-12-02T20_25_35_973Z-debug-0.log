@@ -1,0 +1,36 @@
+0 verbose cli /nix/store/9d235766g7alzlalw4z8yqxql0jl2mgd-nodejs-22.18.0/bin/node /nix/store/9d235766g7alzlalw4z8yqxql0jl2mgd-nodejs-22.18.0/bin/npm
+1 info using npm@10.9.3
+2 info using node@v22.18.0
+3 silly config load:file:/nix/store/9d235766g7alzlalw4z8yqxql0jl2mgd-nodejs-22.18.0/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/mateus/.cache/typescript/5.9/.npmrc
+5 silly config load:file:/home/mateus/.npmrc
+6 silly config load:file:/home/mateus/repos/desafio-mad/.npm_global/etc/npmrc
+7 verbose title npm install types-registry@latest
+8 verbose argv "install" "--ignore-scripts" "types-registry@latest"
+9 verbose logfile logs-max:10 dir:/home/mateus/repos/desafio-mad/.npm_cache/_logs/2025-12-02T20_25_35_973Z-
+10 verbose logfile /home/mateus/repos/desafio-mad/.npm_cache/_logs/2025-12-02T20_25_35_973Z-debug-0.log
+11 silly logfile done cleaning log files
+12 silly packumentCache heap:4345298944 maxSize:1086324736 maxEntrySize:543162368
+13 silly packumentCache corgi:https://registry.npmjs.org/types-registry cache-miss
+14 http fetch GET 200 https://registry.npmjs.org/types-registry 554ms (cache miss)
+15 silly packumentCache corgi:https://registry.npmjs.org/types-registry set size:undefined disposed:false
+16 silly idealTree buildDeps
+17 silly fetch manifest types-registry@0.1.748
+18 silly packumentCache full:https://registry.npmjs.org/types-registry cache-miss
+19 http fetch GET 200 https://registry.npmjs.org/types-registry 106ms (cache miss)
+20 silly packumentCache full:https://registry.npmjs.org/types-registry set size:undefined disposed:false
+21 silly placeDep ROOT types-registry@0.1.748 OK for:  want: 0.1.748
+22 silly reify moves {}
+23 silly audit bulk request { 'types-registry': [ '0.1.748' ] }
+24 http cache types-registry@https://registry.npmjs.org/types-registry/-/types-registry-0.1.748.tgz 0ms (cache hit)
+25 silly tarball no local data for types-registry@https://registry.npmjs.org/types-registry/-/types-registry-0.1.748.tgz. Extracting by manifest.
+26 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 237ms
+27 silly audit report {}
+28 http fetch GET 200 https://registry.npmjs.org/types-registry/-/types-registry-0.1.748.tgz 346ms (cache miss)
+29 silly ADD node_modules/types-registry
+30 verbose cwd /home/mateus/.cache/typescript/5.9
+31 verbose os Linux 6.12.58
+32 verbose node v22.18.0
+33 verbose npm  v10.9.3
+34 verbose exit 0
+35 info ok

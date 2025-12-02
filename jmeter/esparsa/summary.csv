@@ -1,0 +1,4 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+GET - Filmes,476,3788,201,8246,1135.51,1.050%,1.58532,0.87,0.24,562.4
+POST - Comprar,471,2450,628,6991,1132.18,1.062%,1.56973,0.52,0.30,337.6
+TOTAL,947,3122,201,8246,1316.49,1.056%,3.15400,1.39,0.55,450.6
